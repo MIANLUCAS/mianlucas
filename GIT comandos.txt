@@ -1,0 +1,14 @@
+
+- ls -> para ver los archivos que estan dentro del directorio que estemos
+- pwd -> para ver la ruta donde estamos
+
+- cd Desktop -> para acceder con el ruta del Dektop
+- git clone https://github.com/MIANLUCAS/....... -> para clonar en una carpeta de tu ordenador un proyecto/repositorio que tenemos en GITHUB 
+
+- git config --global user.name "mi nombre" -> anadir usuario asi sabemos que usuario esta trabjando y haciendo que cambios
+- git config --global user.email "myemail@example.com" -> anadir email del usuario
+
+- git log -> veo todos lo logos o versiones que hemos guardado
+- git branch -> para ver las ramas que tengo
+- git branch nombre-para-una-rama -> asi anadimos una nueva rama para no tocar las rama master o main
+- git checkout nombre-rama -> para cambiar y trabajar en la rama que queramos

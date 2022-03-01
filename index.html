@@ -17,18 +17,58 @@
         <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
         <link href="blog.css" rel="stylesheet">
       </head>
-    
+  
       <body>
 
         <div class="container">
-          <h2>COMANDOS GIT / VIM / WP-CLI </h2> 
-          <p>******************************* GIT / GITHUB&nbsp; *****************************************</p>
-          <p>git init &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Crear un repositorio en la carpeta actual<br />git clone [url-repository] &nbsp; &nbsp; &nbsp;# Crear un repositorio basado en un repositorio remoto</p>
-          <p>## Manejo de ramas<br />git branch [branch-name] &nbsp; &nbsp; &nbsp; &nbsp;# Crear una rama desde la rama actual<br />git branch -m [branch-name] &nbsp; &nbsp; # Cambiarde nombre a la rama actual<br />git branch -d [branch-name] &nbsp; &nbsp; # Eliminar una rama local<br />git checkout [branch-name] &nbsp; &nbsp; &nbsp;# Moverse a una rama seleccionada<br />git checkout [commit-hash] &nbsp; &nbsp; &nbsp;# Moverse a un commit seleccionado<br />git checkout -b [branch-name] &nbsp; # Crear rama desde la rama actual y hacer checkout<br />git merge [branch-name] &nbsp; &nbsp; &nbsp; &nbsp; # Unir la rama actual con la rama seleccionada</p>
-          <p>## Manejo de commits<br />git add [file-name] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Agregar el archivo seleccionado al stage&nbsp;<br />git add --all &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Agregar todos los archivos modificados al stage<br />git reset [file-name] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Descartar el archivo del stage&nbsp;<br />git commit &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Crear un commit, abre el editor para escribir<br />git commit -m "[description]" &nbsp; # Crear un commit, con una descripcion breve</p>
-          <p>## Estado y consultas<br />git status &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Lista de archivos modificados no versionados<br />git log &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Muestra todos los commits de la rama actual<br />git log --oneline &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Muestra todos los commits (primera linea)</p>
-          <p><br />******************************* SSH *****************************************<br />ssh username@example.com &mdash; Connect to a server. Add -p port to the end to use a different port.<br />cd [nombre de carpeta]&mdash; Para ir a la carpeta que queremos / Move to a different folder.<br />ls &mdash; Veremos en una lista todos los elementos que contiene nuestra carpeta / List the files inside a folder.<br />mkdir &mdash; Para crea un nuevo directorio o carpeta / Create a new folder.<br />pwd &mdash; Te muestra la ruta de donde te encuentras /Show the path to the folder you&rsquo;re at now.<br />touch &mdash; Create a new file.<br />rm [nombre archivo.tipo de archivo] &mdash; Eliminar un archivo / Remove a file.<br />cat [nombre archivo.tipo de archivo] &mdash; te muestra el contenido del archivo / Show the contents of a file. (Ejemplo cat index.html)<br />head &mdash; Read the first ten lines of a file.<br />tail &mdash; Read the last ten lines of a file.<br />du &mdash; Show the size of a file.<br />cp [ruta archivo con nombre archivo + la ruta donde lo queremos copiar]&mdash; Para copiar un archivo / Copy a file or folder. (Ej. cp index.html /users/Miguel/Desktop)<br />mv &mdash; Para mover un archivo de un sitio a otro / Move a file or folder. (Ej. mv index.html /users/Miguel/Desktop /carpeta-test/)<br />zip &mdash; Compress a file or folder.<br />unzip &mdash; Extract a compressed file or folder.<br />find &mdash; Search for files and folders.<br />grep &mdash; Search for a phrase inside files and folders.<br />wget &mdash; Download a file from the Internet onto the server.<br />scp &mdash; Copy a file to your computer.<br />vim/nano &mdash; Edit a file using either the Vim or Nano text editor.<br />clear &mdash; Clear the terminal.<br />history &mdash; Show the last 50 commands you used.<br />exit &mdash; Close the connection.<br />cd ........ Por jemplo nos deja dentro de un carpeta u otro dependiendo de tantos punto como pongamos (Ej. cp ..</p>
-          <p>******************************* WP-CLI *****************************************</p>
+          <h1>COMANDOS GIT / VIM / WP-CLI </h1> 
+          <h2>******************************* GIT / GITHUB&nbsp; *****************************************</h2>
+          <p>git init &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Crear un repositorio en la carpeta actual</p>
+          <br />git clone [url-repository] &nbsp; &nbsp; &nbsp;# Crear un repositorio basado en un repositorio remoto</p>
+          <h3>## Manejo de ramas</h3>
+            <p>git branch [branch-name] &nbsp; &nbsp; &nbsp; &nbsp;# Crear una rama desde la rama actual
+            <br />git branch -m [branch-name] &nbsp; &nbsp; # Cambiarde nombre a la rama actual
+            <br />git branch -d [branch-name] &nbsp; &nbsp; # Eliminar una rama local
+            <br />git checkout [branch-name] &nbsp; &nbsp; &nbsp;# Moverse a una rama seleccionada
+            <br />git checkout [commit-hash] &nbsp; &nbsp; &nbsp;# Moverse a un commit seleccionado
+            <br />git checkout -b [branch-name] &nbsp; # Crear rama desde la rama actual y hacer checkout
+            <br />git merge [branch-name] &nbsp; &nbsp; &nbsp; &nbsp; # Unir la rama actual con la rama seleccionada</p>
+          <h3>## Manejo de commits</h3>
+            <p>git add [file-name] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Agregar el archivo seleccionado al stage&nbsp;
+            <br />git add --all &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Agregar todos los archivos modificados al stage
+            <br />git reset [file-name] &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Descartar el archivo del stage&nbsp;
+            <br />git commit &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Crear un commit, abre el editor para escrir
+            <br />git commit -m "[description]" &nbsp; # Crear un commit, con una descripcion breve</p>
+          <h3>## Estado y consultas</h3>
+            <p>git status &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;# Lista de archivos modificados no versionados
+            <br />git log &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Muestra todos los commits de la rama actual
+            <br />git log --oneline &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # Muestra todos los commits (primera linea)</p>
+          <h2>******************************* SSH *****************************************</h2>
+            <p>ssh username@example.com &mdash; Connect to a server. Add -p port to the end to use a different port.
+            <br />cd [nombre de carpeta]&mdash; Para ir a la carpeta que queremos / Move to a different folder.
+            <br />ls &mdash; Veremos en una lista todos los elementos que contiene nuestra carpeta / List the files inside a folder.
+            <br />mkdir &mdash; Para crea un nuevo directorio o carpeta / Create a new folder.
+            <br />pwd &mdash; Te muestra la ruta de donde te encuentras /Show the path to the folder you&rsquo;re at now.
+            <br />touch &mdash; Create a new file.
+            <br />rm [nombre archivo.tipo de archivo] &mdash; Eliminar un archivo / Remove a file.
+            <br />cat [nombre archivo.tipo de archivo] &mdash; te muestra el contenido del archivo / Show the contents of a file. (Ejemplo cat index.html)
+            <br />head &mdash; Read the first ten lines of a file.
+            <br />tail &mdash; Read the last ten lines of a file.
+            <br />du &mdash; Show the size of a file.
+            <br />cp [ruta archivo con nombre archivo + la ruta donde lo queremos copiar]&mdash; Para copiar un archivo / Copy a file or folder. (Ej. cp index.html /users/Miguel/Desktop)
+            <br />mv &mdash; Para mover un archivo de un sitio a otro / Move a file or folder. (Ej. mv index.html /users/Miguel/Desktop /carpeta-test/)
+            <br />zip &mdash; Compress a file or folder.
+            <br />unzip &mdash; Extract a compressed file or folder.
+            <br />find &mdash; Search for files and folders.
+            <br />grep &mdash; Search for a phrase inside files and folders.
+            <br />wget &mdash; Download a file from the Internet onto the server.
+            <br />scp &mdash; Copy a file to your computer.
+            <br />vim/nano &mdash; Edit a file using either the Vim or Nano text editor.
+            <br />clear &mdash; Clear the terminal.
+            <br />history &mdash; Show the last 50 commands you used.
+            <br />exit &mdash; Close the connection.
+            <br />cd ........ Por jemplo nos deja dentro de un carpeta u otro dependiendo de tantos punto como pongamos (Ej. cp ..</p>
+          <h2>******************************* WP-CLI *****************************************</h2>
           <p>Los comandos siempre comienzan con wp seguido por un Comando y Subcomando, seguido por par&aacute;metros obligatorios y opcionales, algo como esto:</p>
 <p>wp command subcommand requiredparam --optionalparam --optionalparam2=value</p>
 <p><span style="font-size: 18pt;"><strong>Instalar worpress</strong></span></p>
