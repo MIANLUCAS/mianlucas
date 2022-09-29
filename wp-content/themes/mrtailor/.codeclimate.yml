@@ -1,0 +1,26 @@
+## other configuration excluded from example...
+engines:
+  phpcodesniffer:
+    enabled: true
+    config:
+      standard: "WordPress"
+  eslint:
+    enabled: true
+  scss-lint:
+    enabled: true
+  duplication:
+    enabled: true
+    config:
+      languages:
+      - php
+      - javascript
+ratings:
+  paths:
+    - "**.php"
+    - "**.js"
+    - "**.scss"
+    - "**.css"
+    - "**.html"
+exclude_paths:
+- "inc/_vendor"
+- "inc/fonts"

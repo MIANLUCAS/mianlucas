@@ -1,0 +1,88 @@
+.woocommerce,
+.woocommerce-page,
+.wp-block-getbowtied-vertical-slider .product {
+    div.quantity {
+        border-width: 2px;
+        border-style: solid;
+        border-radius: 3px;
+    	margin: 0 20px 0 0 !important;
+        width: fit-content;
+
+        &.hidden {
+            display: none;
+        }
+
+        .screen-reader-text {
+        	display: none;
+        }
+
+        .minus,
+        .plus {
+            background-color: transparent;
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: 22px;
+            cursor: pointer;
+            display: inline-block;
+            font-size: 0 !important;
+            outline: 0;
+            height: 46px;
+            width: 22px;
+            padding: 0;
+            margin-bottom: 0;
+            vertical-align: top;
+        }
+
+        .minus {
+            padding-left: 22px;
+            margin-left: 18px;
+        }
+
+        .plus {
+            padding-right: 22px;
+            margin-right: 18px;
+        }
+
+        input.qty {
+            -moz-appearance: none;
+            -webkit-appearance: none;
+            background-color: transparent;
+            display: inline-block;
+            font-weight: bold;
+            height: 46px;
+            margin: 0;
+            padding: 0;
+            outline: 0;
+            width: 45px;
+            vertical-align: top;
+            text-align: center;
+
+            &::-webkit-inner-spin-button,
+            &::-webkit-outer-spin-button {
+                -webkit-appearance: none;
+            }
+        }
+    }
+}
+
+.rtl.woocommerce,
+.rtl.woocommerce-page,
+.rtl .wp-block-getbowtied-vertical-slider .product {
+    div.quantity {
+    	margin: 0 0 0 20px !important;
+
+        .minus {
+            padding-right: 22px;
+            margin-right: 18px;
+            padding-left: 0;
+            margin-left: 0;
+        }
+
+        .plus {
+            padding-left: 22px;
+            margin-left: 18px;
+            padding-right: 0;
+            margin-right: 0;
+        }
+    }
+}

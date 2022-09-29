@@ -1,0 +1,2210 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Thank You Page Customizer Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-30 08:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0"
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/admin.php:82
+msgid ""
+"\">cutomize</a> to update your Thank you page. We are sorry for this "
+"inconvenience."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2708
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2759
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3245
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3829
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4203
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4517
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2913
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3194
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3223
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3645
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3939
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4201
+msgid "\">Shortcodes list</span>"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2853
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3299
+msgid "\">Shortcodes list</span></p>"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/woo-order-email.php:57
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/account.php:55
+#, php-format
+msgid "(%s - Expires: %s)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1191
+msgid "**Click on Edit to view more settings and rules for each coupon."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1190
+msgid ""
+"*When an order is successfully placed, if you use coupons, they will be "
+"selected with the priority from top to bottom until the rules are matched. "
+"If no rules are matched, no coupon will be given."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/admin.php:51
+msgid "?page=wc-settings&tab=advanced\">here</a>."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:569
+msgid "Actions"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:239
+#, php-format
+msgid "Add an %s-columns row"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:178
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:195
+msgid "Add items"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5365
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5377
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5379
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5649
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5661
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5663
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5063
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5317
+msgid "Address"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4426
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4073
+msgid "Address Background Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4409
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4056
+msgid "Address Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4373
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4020
+msgid "Address Font Size(px)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4389
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4036
+msgid "Address Text Align"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5497
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5156
+msgid "Aerial"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1273
+msgid "Allow free shipping"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4001
+msgid "ASC"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4000
+msgid "Ascending order from lowest to highest values (1, 2, 3; a, b, c)."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4056
+msgid "Auto play slideshow with settings below"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1678
+msgid "Auto Update Key"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4051
+msgid "Autoplay"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:262
+msgid "Available components"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1749
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3825
+msgid "Available shortcode"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3047
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3681
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4055
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2715
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3496
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3790
+msgid "Background Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/3rd/woocommerce-email-template-customizer/viwec-template.php:198
+msgid "Basic"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3891
+msgid "Best selling products"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1733
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3805
+msgid "Billing address"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1736
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3808
+msgid "Billing city"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1735
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3807
+msgid "Billing country"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1741
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3813
+msgid "Billing email"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1738
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3810
+msgid "Billing first name"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1739
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3811
+msgid "Billing last name"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4305
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4316
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4318
+msgid "Billing Title"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5449
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5107
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:90
+msgid "Bing map"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:483
+msgid "Bing map API key"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5495
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5154
+msgid "Bing map view"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5213
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4902
+msgid "Black and white"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5254
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5258
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5538
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5542
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4943
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5197
+msgid "Blue"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4947
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5201
+msgid "Blue dot"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5215
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4904
+msgid "Blue essence"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5262
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5546
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4951
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5205
+msgid "Blue pushpin"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5210
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4899
+msgid "Blue water"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2956
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3129
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3763
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4137
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2797
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3381
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3578
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3872
+msgid "Border Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2937
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3110
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3744
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4118
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2778
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3362
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3559
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3853
+msgid "Border Style"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2921
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3094
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3728
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4102
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2762
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3346
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3543
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3837
+msgid "Border Width(px)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5650
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5318
+msgid ""
+"Can be either {billing_address}, {shipping_address}, {store_address} or a "
+"specific address. Click \"Update map\" after modifying address to apply "
+"changes to your preview map.<p><span class=\"wtyp-button-update-changes-bing-"
+"map\">Update map</span></p>"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5366
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5064
+msgid ""
+"Can be either {billing_address}, {shipping_address}, {store_address} or a "
+"specific address. Click \"Update map\" after modifying address to apply "
+"changes to your preview map.<p><span class=\"wtyp-button-update-changes-"
+"google-map\">Update map</span></p>"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1495
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3856
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4086
+msgid "Cancel"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1661
+msgid "Cancelled"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5498
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5157
+msgid "CanvasDark"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5499
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5158
+msgid "CanvasLight"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3960
+msgid "Catalog"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1370
+msgid "Categories"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2676
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2821
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3298
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3536
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3604
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3882
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4256
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4392
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4603
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2944
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3012
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3080
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3162
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3267
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3676
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3970
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4039
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4266
+msgid "Center"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:232
+msgid "Click on items below to add row"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:856
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1178
+msgid "Clone"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2658
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2889
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3144
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3313
+msgid "Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5517
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5176
+msgid "Compact"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1662
+msgid "Completed"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4723
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:1701
+msgid "Copy code"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2805
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3251
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:406
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:87
+msgid "Coupon"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:566
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1265
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1717
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3789
+msgid "Coupon amount"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1713
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3785
+msgid "Coupon code"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2990
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3416
+msgid "Coupon Code Background Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2973
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3399
+msgid "Coupon Code Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3737
+msgid "Coupon code is copied to clipboard."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1257
+msgid "Coupon code prefix"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1714
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3786
+msgid "Coupon code style 1"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:150
+msgid "Coupon code was sent to your billing email."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:132
+msgid ""
+"Coupon code was sent to your billing email. If you did not receive any email,"
+" please go to Account settings/Orders to view your coupon gift anytime."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/woo-order-email.php:61
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/account.php:78
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/account.php:81
+msgid "Coupon gift"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/3rd/woocommerce-email-template-customizer/viwec-template.php:32
+msgid "Coupon gift for the order"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/3rd/woocommerce-email-template-customizer/viwec-template.php:207
+msgid "Coupon gift for your order!"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1199
+msgid "Coupon settings"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:564
+msgid "Coupon type"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1715
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3787
+msgid "Coupon's date expires"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1716
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3788
+msgid "Coupon's last valid date"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1544
+msgid "Create a new email template"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3896
+msgid "Cross-sells of products in the order"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5221
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4910
+msgid "Custom"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2635
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2687
+msgid "Custom CSS"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5235
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4924
+msgid "Custom style"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4023
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3753
+msgid "Customer Information"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5532
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:86
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:464
+msgid "Customer information"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1663
+msgid "Customer Invoice"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1664
+msgid "Customer Note"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2941
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3114
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3164
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3214
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3748
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3798
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4122
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4172
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2782
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2832
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2882
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3366
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3563
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3614
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3857
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3908
+msgid "Dashed"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3978
+msgid "Date"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3381
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3392
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3394
+msgid "Date Title"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5206
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5334
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5518
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5618
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4895
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5037
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5177
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5291
+msgid "Default"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4003
+msgid "DESC"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4002
+msgid "Descending order from highest to lowest values (3, 2, 1; c, b, a)."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:492
+msgid "Design"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:565
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1243
+msgid "Discount type"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3999
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3726
+msgid "Display Product Image"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2940
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3113
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3163
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3213
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3747
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3797
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4121
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4171
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2781
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2831
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2881
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3365
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3562
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3613
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3856
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3907
+msgid "Dotted"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Drag & drop to customize your thank you page, give coupons for successful "
+"orders and repeat sales."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4870
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4544
+msgid "Dribbble URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:855
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1177
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:933
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4511
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4616
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4702
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4740
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4757
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5458
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5490
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5496
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5501
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5525
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5606
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5779
+msgid "Edit"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:165
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:273
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:291
+msgid "Edit this item"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:408
+msgid "Email"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1619
+msgid "Email content"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1597
+msgid "Email heading"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4721
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:1699
+msgid "Email me"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1230
+msgid "Email restriction"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1575
+msgid "Email subject"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1516
+msgid "Email template"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3449
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3460
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3462
+msgid "Email Title"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:418
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:425
+msgid "Enable"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1326
+msgid "Enable if the coupon cannot be used in conjunction with other coupons."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1280
+#, php-format
+msgid ""
+"Enable if the coupon grants free shipping. A free shipping method must be "
+"enabled in your shipping zone and be set to require \"a valid free shipping "
+"coupon\" (see the \"%s\" setting)."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1341
+msgid ""
+"Enable if the coupon should not apply to items on sale. Per-item coupons "
+"will only work if the item is not on sale. Per-cart coupons will only work "
+"if there are items in the cart that are not on sale."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1237
+msgid "Enable to make coupon usable for order billing email only"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1480
+msgid "Exclude categories"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1458
+msgid "Exclude products"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1334
+msgid "Exclude sale items"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1381
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3942
+msgid "Excluded categories"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1359
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3917
+msgid "Excluded products"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:584
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:911
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1214
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1221
+msgid "Existing coupon"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1289
+msgid "Expires after(days)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4675
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4338
+msgid "Facebook URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1665
+msgid "Failed"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3898
+msgid "Featured products"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:592
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:919
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1249
+msgid "Fixed cart discount"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:593
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:920
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1250
+msgid "Fixed product discount"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:611
+msgid "Follow Dribbble"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:560
+msgid "Follow Facebook"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:637
+msgid "Follow Google Plus"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:598
+msgid "Follow Instagram"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:663
+msgid "Follow Linkedin"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:585
+msgid "Follow Pinterest"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:624
+msgid "Follow Tumblr"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:572
+msgid "Follow Twitter"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:650
+msgid "Follow VK"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:677
+msgid "Follow Youtube"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1734
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3806
+msgid "Formatted billing address"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1740
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3812
+msgid "Formatted billing full name"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1731
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3803
+msgid "Formatted shipping address"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1281
+msgid "free shipping method"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:404
+msgid "General"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1690
+msgid "Get Key"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:505
+msgid "Go to design"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5158
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4846
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:89
+msgid "Google map"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:473
+msgid "Google map API key"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5204
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4893
+msgid "Google map style"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4968
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4646
+msgid "Google Plus ID"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/admin.php:85
+msgid "Got it"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5500
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5159
+msgid "Grayscale"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5278
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5562
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4970
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5224
+msgid "Green"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5282
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5566
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4974
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5228
+msgid "Green dot"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5286
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5570
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4978
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5232
+msgid "Green pushpin"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3332
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3916
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4290
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2978
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3710
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4004
+msgid "Header Background Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3315
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3899
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4273
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4553
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2961
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3693
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3987
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4215
+msgid "Header Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2742
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3279
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3863
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4237
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4568
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2925
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3206
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3657
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3951
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4230
+msgid "Header Font Size(px)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2707
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2719
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2721
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3244
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3256
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3258
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3828
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3840
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3842
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4202
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4214
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4216
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2912
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3193
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3644
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3938
+msgid "Header Text"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3295
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3879
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4253
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2941
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3673
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3967
+msgid "Header Text Align"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5187
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5478
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4876
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5137
+msgid "Height(px)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3964
+msgid "Hidden"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1719
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3791
+msgid "Home url"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3229
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3813
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2897
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3629
+msgid "Horizontal Separator Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3210
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3794
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2878
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3610
+msgid "Horizontal Separator Style"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3194
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3778
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2862
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3594
+msgid "Horizontal Separator Width(px)"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/woocommerce-thank-you-page-customizer"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4708
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4756
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4805
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4854
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4903
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4952
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5001
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5049
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5099
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5148
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4374
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4426
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4477
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4528
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4579
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4630
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4681
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4732
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4782
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4832
+msgid "Icon Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4690
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4738
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4787
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4836
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4885
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4934
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4983
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5032
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5068
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5117
+msgid "Icons"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4600
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4263
+msgid "Icons align"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4584
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4247
+msgid "Icons size (px)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3980
+msgid "ID"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3024
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3451
+msgid ""
+"If enabled, when hovering the coupon field, 2 buttons will show to copy "
+"coupon code or send code to billing email."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5171
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5462
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4860
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5121
+msgid "If set 0, width will be 100%."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1469
+msgid "Include categories"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1642
+msgid "Include coupon info"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1649
+msgid ""
+"Include coupon info in WooCommerce order email if coupon is given on thank "
+"you page"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1447
+msgid "Include products"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3930
+msgid "Included categories"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3905
+msgid "Included products"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1319
+msgid "Individual use only"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4030
+msgid "Infinite loop"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4821
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4493
+msgid "Instagram URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1726
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3798
+msgid "Items count"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2678
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2823
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3300
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3538
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3606
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3884
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4258
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4394
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4605
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2946
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3014
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3082
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3164
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3269
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3678
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3972
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4041
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4268
+msgid "Justify"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2675
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2820
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3297
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3535
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3603
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3881
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4255
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4391
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4602
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2943
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3011
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3079
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3161
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3266
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3675
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3969
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4038
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4265
+msgid "Left"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5214
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4903
+msgid "Light dream"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5220
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4909
+msgid "Light gray"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5219
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4908
+msgid "Light monochrome"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:517
+msgid "Limit coupons per day"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:539
+msgid "Limit coupons per month"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:528
+msgid "Limit coupons per week"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:550
+msgid "Limit coupons per year"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1401
+msgid "Limit usage to X items"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5084
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4767
+msgid "Linkedin URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5350
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5634
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5047
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5301
+msgid "Marker"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5402
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5414
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5416
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5079
+msgid "Marker label"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:568
+msgid "Max order total"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1437
+msgid "Maximum order total"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1308
+msgid "Maximum spend"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3982
+msgid "Menu order"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2793
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2904
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3235
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3329
+msgid "Message Font Size(px)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2758
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2770
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2772
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2852
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2864
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2866
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3222
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3298
+msgid "Message Text"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5218
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4907
+msgid "Midnight commander"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:567
+msgid "Min order total"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5519
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5178
+msgid "Minified"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1426
+msgid "Minimum order total"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1299
+msgid "Minimum spend"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4454
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:79
+msgid "My account"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5550
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5575
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:482
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:507
+msgid "N/A"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5515
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5174
+msgid "Navigation Bar Mode"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/woo-order-email.php:39
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/account.php:39
+msgid "Never"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:145
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4670
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4684
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:1658
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/3rd/woocommerce-email-template-customizer/viwec-template.php:55
+msgid "never expires"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:924
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:928
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5449
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5452
+msgid "No matched products found"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1525
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1554
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3889
+msgid "None"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5750
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:437
+msgid "Note"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4042
+msgid "Number of carousel items that should move on animation"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4011
+msgid "Number of columns"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1494
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3855
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4085
+msgid "OK"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1666
+msgid "On Hold"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3890
+msgid "On sale"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4637
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4300
+msgid "Open link in current tab"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4636
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4299
+msgid "Open link in new tab"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1543
+msgid "or"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5290
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5574
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4984
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5238
+msgid "Orange"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5294
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5578
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4988
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5242
+msgid "Orange dot"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3996
+msgid "Order"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2482
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2496
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2512
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2551
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2550
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2559
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2598
+#, php-format
+msgid "Order #%s"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:91
+msgid "Order again"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3032
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2699
+msgid "Order Confirmation"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5788
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:84
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:174
+msgid "Order confirmation"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1723
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3795
+msgid "Order date"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3649
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3463
+msgid "Order Details"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:5615
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:85
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:299
+msgid "Order details"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1721
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3793
+msgid "Order number"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3347
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3358
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3360
+msgid "Order Number Title"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3971
+msgid "Order products by"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:447
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1722
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3794
+msgid "Order status"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1654
+msgid "Order status email"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1725
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3797
+msgid "Order subtotal"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1724
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3796
+msgid "Order total"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3415
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3426
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3428
+msgid "Order Total Title"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2691
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2836
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3062
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3696
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4070
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2730
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3177
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3282
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3511
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3805
+msgid "Padding(px)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5216
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4905
+msgid "Pale dawn"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4073
+msgid "Pause on hover"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4078
+msgid "Pause the slideshow when hovering and resume when no longer hovering"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4451
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:76
+msgid "Pay"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1727
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3799
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:94
+msgid "Payment method"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3483
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3494
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3496
+msgid "Payment Title"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:591
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:918
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1248
+msgid "Percentage discount"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5298
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5582
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4994
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5248
+msgid "Pink"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5302
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5586
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4998
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5252
+msgid "Pink dot"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5306
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5590
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5002
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5256
+msgid "Pink pushpin"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4772
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4442
+msgid "Pinterest URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1694
+msgid ""
+"Please fill your key what you get from <a target=\"_blank\" href=\"https:"
+"//villatheme.com/my-download\">Villatheme</a>. You can automatically update "
+"WooCommerce Thank You Page Customizer plugin. See guide <a target=\"_blank\" "
+"href=\"https://villatheme.com/knowledge-base/how-to-use-auto-update-"
+"feature/\">here</a>"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer.php:47
+msgid ""
+"Please install and activate WooCommerce to use WooCommerce Thank You Page."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3984
+msgid "Popularity"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:69
+msgid "Preview emails"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1667
+msgid "Processing"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4011
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3738
+msgid "Product Image width(px)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4021
+msgid "Product limit"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3885
+msgid "Product options"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3931
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3942
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3944
+msgid "Product Title Text"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3965
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3976
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3978
+msgid "Product Value Text"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3953
+msgid "Product visibility"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1348
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:93
+msgid "Products"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3897
+msgid "Products in the same categories of products in the order"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3877
+msgid "Products shortcode settings"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3963
+msgid ""
+"Products that are hidden from both shop and search, accessible only by "
+"direct URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3961
+msgid "Products visible in search results only, but not on the shop"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3957
+msgid "Products visible on shop and search results"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3959
+msgid "Products visible on the shop only, but not search results"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5310
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5594
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5008
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5262
+msgid "Purple"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5314
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5598
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5012
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5266
+msgid "Purple dot"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5318
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5602
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5016
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5270
+msgid "Purple pushpin"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3986
+msgid "Random"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3985
+msgid ""
+"Randomly order the products on page load (may not work with sites that use "
+"caching, as it could save a specific order)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3988
+msgid "Rating"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3892
+msgid "Recently published products"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3894
+msgid "Recently viewed products"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5322
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5606
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5022
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5026
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5276
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5280
+msgid "Red"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5326
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5610
+msgid "Red dot"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5330
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5614
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5030
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5284
+msgid "Red pushpin"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1668
+msgid "Refunded"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3893
+msgid "Related products of products in the order"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:857
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1179
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:224
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:362
+msgid "Remove"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:167
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:275
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:293
+msgid "Remove this item"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2677
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2822
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3299
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3537
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3605
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3883
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4257
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4393
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4604
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2945
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3013
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3081
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3163
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3268
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3677
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3971
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4040
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4267
+msgid "Right"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5501
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5160
+msgid "Road"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3078
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3712
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4086
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2746
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3527
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3821
+msgid "Rounded Corner(px)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1201
+msgid "Rules to give coupon"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1704
+msgid "Save & Check Key"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3007
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3434
+msgid "Scissors color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3962
+msgid "Search"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1209
+msgid "Select coupon"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2569
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2620
+msgid "Select order to preview"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1504
+msgid "Send coupon email"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1511
+msgid "Send coupon email if coupon is given on thank you page"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:157
+msgid "Settings"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5209
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4898
+msgid "Shades of grey"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1730
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3802
+msgid "Shipping address"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1729
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3801
+msgid "Shipping method"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4339
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4350
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4352
+msgid "Shipping Title"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1718
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3790
+msgid "Shop title"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1720
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3792
+msgid "Shop url"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:66
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:255
+msgid "Shortcodes"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3023
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3450
+msgid "Show button to handle coupon code"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4063
+msgid "Slideshow speed(milliseconds)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:88
+msgid "Social icons"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4437
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4118
+msgid "Social Media"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2939
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3112
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3162
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3212
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3746
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3796
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4120
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4170
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2780
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2830
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2880
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3364
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3561
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3612
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3855
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3906
+msgid "Solid"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4618
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4281
+msgid "Spaces Between Icons (px)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4035
+msgid "Start over when reaching the end of slide"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5208
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4897
+msgid "Subtle Grayscale"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2673
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2818
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3159
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3264
+msgid "Text Align"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3664
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4038
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3479
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3773
+msgid "Text Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:92
+msgid "Text editor"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4516
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4528
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4530
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4200
+msgid "Text Follow Social Network"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2643
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3129
+msgid "Thank You Message"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/includes/custom-controls.php:83
+msgid "Thank you message"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4472
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:1760
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3987
+msgid "The average product rating"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3977
+msgid "The date the product was published"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:523
+msgid ""
+"The maximum number of coupon given to each customer per day(based on email "
+"if not logged-in). Set to 0 to not limit this."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:545
+msgid ""
+"The maximum number of coupon given to each customer per month(based on email "
+"if not logged-in). Set to 0 to not limit this."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:534
+msgid ""
+"The maximum number of coupon given to each customer per week(based on email "
+"if not logged-in). Set to 0 to not limit this."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:556
+msgid ""
+"The maximum number of coupon given to each customer per year(based on email "
+"if not logged-in). Set to 0 to not limit this."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3981
+msgid "The Menu Order, if set (lower numbers display first)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3983
+msgid "The number of purchases"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3979
+msgid "The post ID of the product"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3975
+msgid "The product title"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:128
+msgid ""
+"There was problem sending email but you can always view your coupon gift by "
+"going to Account settings/Orders"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3976
+msgid "Title"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3570
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3046
+msgid "Title Background Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3553
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3029
+msgid "Title Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3517
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2993
+msgid "Title Font Size(px)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3533
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3009
+msgid "Title Text Align"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4919
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4595
+msgid "Tumblr URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4723
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4391
+msgid "Twitter URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5207
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4896
+msgid "Ultra light with labels"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:4447
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/templates/thankyou.php:72
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:583
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:910
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1213
+msgid "Unique coupon"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5217
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4906
+msgid "Unsaturated browns"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3895
+msgid "Up-sells of products in the order"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:412
+msgid "Update"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5386
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5670
+msgid "Update map"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1392
+msgid "Usage limit per coupon"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1411
+msgid "Usage limit per user"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5403
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5080
+msgid "Use {address} to refer to the address that you enter above."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/account.php:36
+#, php-format
+msgid "Used: %s/%s."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:467
+msgid ""
+"Usually, order status will be set to \"Processing\" after checking out and "
+"customers will be lead to a thank you page but it could be different for "
+"some payments that you are using."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3638
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3114
+msgid "Value Background Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3621
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3097
+msgid "Value Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3585
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3061
+msgid "Value Font Size(px)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3601
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3077
+msgid "Value Text Align"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3179
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4187
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2847
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3923
+msgid "Vertical Separator Color"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3160
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4168
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2828
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3904
+msgid "Vertical Separator Style"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:3144
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4152
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2812
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:3888
+msgid "Vertical Separator Width(px)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1542
+msgid "View all Email templates"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5212
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4901
+msgid "Vintage old golden brown"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/frontend/frontend.php:3958
+msgid "Visible"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5017
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4697
+msgid "VKontakte URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4634
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4297
+msgid "When click on social icons"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5170
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5461
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4859
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5120
+msgid "Width(px)"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:410
+msgid "WooCommerce email"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:2478
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:2538
+msgid "WooCommerce Thank You Page"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/3rd/woocommerce-email-template-customizer/viwec-template.php:214
+msgid "WooCommerce Thank You Page Customizer"
+msgstr ""
+
+#. Name of the plugin
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:393
+msgid "WooCommerce Thank You Page Customizer Premium"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5211
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4900
+msgid "WY"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5266
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5550
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4956
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5210
+msgid "Yellow"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5270
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5554
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4960
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5214
+msgid "Yellow dot"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5274
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5558
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4964
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5218
+msgid "Yellow pushpin"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5236
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4925
+msgid ""
+"You can find more style at <a href=\"https://snazzymaps.com/\" "
+"target=\"_blank\">Snazzy Maps</a> by copying Javascript style array and "
+"paste it here."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/settings.php:1538
+msgid ""
+"You can use <a href=\"https://1.envato.market/BZZv1\" target=\"_blank\">"
+"WooCommerce Email Template Customizer</a> or <a href=\"http://bit.ly/woo-"
+"email-template-customizer\" target=\"_blank\">Email Template Customizer for "
+"WooCommerce</a> to create and customize your own email template. If no email "
+"template is selected, below email will be used."
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4871
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4545
+msgid "Your Dribbble URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4676
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4339
+msgid "Your Facebook URL Eg: https://www.facebook.com/villatheme"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4969
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4647
+msgid "Your Google Plus URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4822
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4494
+msgid "Your Instagram URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5085
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4768
+msgid "Your Linkedin URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4773
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4443
+msgid "Your Pinterest URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4920
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4596
+msgid "Your Tumblr URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:4724
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4392
+msgid "Your Twitter URL Eg: https://www.twitter.com/villatheme"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5018
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4698
+msgid "Your VKontakte URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5134
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4818
+msgid ""
+"Your Youtube URL. Eg: https://www.youtube."
+"com/channel/UCbCfnjbtBZIQfzLvXgNpbKw"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5133
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:4817
+msgid "Youtube URL"
+msgstr ""
+
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5437
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/design.php:5685
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5093
+#: D:/git/woocommerce-thank-you-page-customizer/woocommerce-thank-you-page-customizer/admin/designa.php:5347
+msgid "Zoom level"
+msgstr ""

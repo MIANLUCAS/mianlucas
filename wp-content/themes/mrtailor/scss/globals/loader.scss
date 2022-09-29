@@ -1,0 +1,80 @@
+.products a.button.loading:after,
+.woocommerce #respond input#submit.loading:after,
+.woocommerce a.button.loading:after,
+.woocommerce button.button.loading:after,
+.woocommerce input.button.loading:after,
+.yith-wcwl-add-button.show_overlay:after,
+.blockUI:before,
+.blockUI.blockOverlay:before,
+.wc-block-grid__product-add-to-cart a.loading:after,
+.wc-block-grid__product-add-to-cart button.loading:after,
+.mrtailor_products_load_more_loader:before {
+	background: none !important;
+	content: '' !important;
+	box-sizing: border-box;
+	width: 24px !important;
+	height: 24px !important;
+	border-radius: 100%;
+	border: 1px solid transparent;
+	border-top-color: #000;
+	animation: loader_fade .5s ease-in, loader_spinner .5s linear infinite !important;
+    position: absolute;
+    transition: opacity 0.3s, width 3s ease 30s, height 0s ease 30s;
+    top: calc( 50% - 12px );
+    right: calc( 50% - 12px );
+}
+
+.blockUI {
+	background-image: none !important;
+}
+
+div.wc-block-grid__product-add-to-cart a.loading:after,
+div.wc-block-grid__product-add-to-cart button.loading:after {
+	margin-left: 0;
+	right: -25px!important;
+	width: 16px!important;
+	height: 16px!important;
+	top: 1px;
+}
+
+.yith-wcwl-add-button {
+
+    &:not(.show_overlay) {
+        &:after {
+           opacity: 0;
+           width: 0;
+           height: 0;
+        }
+    }
+}
+
+.blockUI.blockOverlay
+{
+	background-color: rgba(255,255,255,0.5) !important;
+}
+
+.blockUI.blockOverlay:before
+{
+	color:rgba(0,0,0,.75) !important;
+}
+
+@keyframes loader_spinner
+{
+	100%
+	{
+		transform: rotate(360deg);
+	}
+}
+
+@keyframes loader_fade
+{
+	0%
+	{
+		opacity: 0;
+	}
+
+	100%
+	{
+		opacity: 1;
+	}
+}

@@ -1,0 +1,26 @@
+2021-11-13T22:09:13+00:00 CRITICAL Uncaught Error: Call to undefined function jQuery() in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:241
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-settings.php(528): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-config.php(81): require_once('/homepages/36/d...')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-load.php(37): require_once('/homepages/36/d...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-admin/admin.php(34): require_once('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-admin/theme-editor.php(10): require_once('/homepages/36/d...')
+#5 {main}
+  thrown in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 241
+
+2021-11-13T22:10:45+00:00 CRITICAL syntax error, unexpected ')' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 245
+
+2021-11-13T22:10:54+00:00 CRITICAL syntax error, unexpected end of file in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 246
+
+2021-11-13T22:11:14+00:00 CRITICAL syntax error, unexpected end of file in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 246
+
+2021-11-13T22:11:27+00:00 CRITICAL syntax error, unexpected end of file in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 245
+
+2021-11-13T22:11:46+00:00 CRITICAL syntax error, unexpected '}', expecting ')' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 245
+
+2021-11-13T22:12:18+00:00 CRITICAL syntax error, unexpected end of file in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 245
+
+2021-11-13T22:12:33+00:00 CRITICAL syntax error, unexpected end of file in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 245
+
+2021-11-13T22:17:18+00:00 CRITICAL syntax error, unexpected end of file in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 244
+

@@ -1,0 +1,223 @@
+.button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+button[type="submit"],
+.woocommerce-widget-layered-nav-dropdown__submit {
+	appearance: none;
+	border: none;
+	cursor: pointer;
+	font-weight: 700;
+	font-size: 13px !important;
+	line-height: 1;
+	text-transform: uppercase;
+    padding: 1.1775rem 2rem 1.025rem;
+	transition: all 0.3s ease;
+}
+
+button,
+input,
+select,
+textarea {
+	border-radius: 3px;
+    margin: 0;
+}
+
+input[type="checkbox"] {
+    width: 22px;
+    height: 22px;
+    appearance: none;
+    background-color: #f1f1f1;
+    outline: none;
+    margin: 0 10px 0 0 !important;
+    position: relative;
+    border: none;
+    cursor: pointer;
+    outline-width: 0;
+    top: 6px;
+    transition: all .3s ease;
+    vertical-align: initial !important;
+
+	.rtl & {
+		margin: 0 0 0 10px !important;
+	}
+
+    &:checked:before {
+        content: "";
+        position: absolute;
+        top: 4px;
+        left: 8px;
+        display: table;
+        width: 6px;
+        height: 11px;
+        border: 2px solid #000;
+        border-top-width: 0;
+        border-left-width: 0;
+        transform: rotate(45deg);
+    }
+}
+
+input[type="radio"] {
+    width: 22px;
+    height: 22px;
+    appearance: none;
+    background-color: #f1f1f1;
+    outline: none;
+    margin: 0 10px 0 0 !important;
+    position: relative;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    outline-width: 0;
+    top: 6px;
+    transition: all .3s ease;
+    vertical-align: initial !important;
+
+	.rtl & {
+		margin: 0 0 0 10px !important;
+	}
+
+    &:checked:before {
+        content: "";
+        position: absolute;
+        top: 8px;
+        left: 8px;
+        display: table;
+        width: 6px;
+        height: 6px;
+        background-color: #000;
+        border-radius: 50%;
+        transform: rotate(45deg);
+    }
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+    + label, + span {
+        display: inline;
+    }
+}
+
+input[type="search"] {
+    box-sizing: content-box;
+}
+
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+
+textarea {
+	border-radius: 3px;
+    overflow: auto;
+	height: auto;
+    min-height: 100px;
+}
+
+label {
+	font-size: 13px;
+	line-height: 1.5;
+	text-transform: uppercase;
+	background: transparent;
+	font-weight: bold;
+	margin-bottom: 5px;
+	cursor: pointer;
+	display: block;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="date"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="month"],
+input[type="week"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="tel"],
+input[type="time"],
+input[type="url"],
+textarea {
+    -webkit-appearance: none;
+    border: 0;
+    box-shadow: inset 0 0 0 rgba(0, 0, 0, 0);
+    display: block;
+    margin: 0 0 1.5rem 0;
+    padding: 12px 20px;
+	font-weight: bold;
+	line-height: 1.5;
+    width: 100%;
+    box-sizing: border-box;
+    transition: all 0.15s linear;
+
+    &:focus {
+        outline: none;
+    }
+}
+
+input[type="file"] {
+    width: 100%;
+}
+
+fieldset {
+	border: 1px solid #c0c0c0;
+    margin: 0;
+    padding: 0;
+
+    legend {
+        font-weight: bold;
+        padding: 0;
+        margin: 0;
+    }
+}
+
+label small {
+    text-transform: capitalize;
+}
+
+select {
+    -webkit-appearance: none !important;
+    background-repeat: no-repeat;
+    background-position: center right 15px;
+    border: 0;
+	border-radius: 3px;
+	cursor: pointer;
+	outline: 0;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 1.5;
+    padding: 12px 30px 12px 20px;
+	width: 100%;
+	transition: all 0.15s linear;
+
+	.rtl & {
+		background-position: center left 15px;
+		padding: 12px 20px 12px 30px;
+	}
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+button, .button {
+    border: 0;
+    cursor: pointer;
+    margin: 0;
+    position: relative;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    padding: 0;
+    transition: all .3s ease;
+}
+
+button.disabled,
+button[disabled],
+.button.disabled,
+.button[disabled] {
+    cursor: default;
+    opacity: 0.7;
+    box-shadow: none;
+}

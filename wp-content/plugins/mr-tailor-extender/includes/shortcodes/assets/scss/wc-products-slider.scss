@@ -1,0 +1,36 @@
+.mt_ext_products_slider {
+    ul.products {
+        display: flex;
+        margin-top: 0;
+
+        li.product.last {
+            margin-right: 30px;
+        }
+    }
+
+    .swiper-pagination {
+        padding: 0 0 50px;
+        position: relative;
+        width: 100%!important;
+
+        span.swiper-pagination-bullet {
+            display: inline-block;
+            width: 8px;
+            height: 8px;
+            margin: 10px 3px;
+            opacity: 0.99;
+            -webkit-border-radius: 20px;
+            -moz-border-radius: 20px;
+            border-radius: 20px;
+            background: #d4d4d4;
+
+            &:only-child {
+                display: none;
+            }
+
+            &.swiper-pagination-bullet-active {
+                background: #a9a9ab;
+            }
+        }
+    }
+}

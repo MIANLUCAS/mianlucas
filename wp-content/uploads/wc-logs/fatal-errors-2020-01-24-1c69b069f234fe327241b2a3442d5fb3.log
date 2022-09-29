@@ -1,0 +1,35 @@
+2020-01-24T16:41:24+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE), expecting '(' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 235
+
+2020-01-24T16:41:33+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE), expecting '(' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 235
+
+2020-01-24T16:41:44+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE), expecting '(' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 235
+
+2020-01-24T16:42:49+00:00 CRITICAL syntax error, unexpected ',' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 231
+
+2020-01-24T16:45:48+00:00 CRITICAL syntax error, unexpected ',' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 231
+
+2020-01-24T16:46:15+00:00 CRITICAL syntax error, unexpected ',' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 231
+
+2020-01-24T16:47:20+00:00 CRITICAL syntax error, unexpected '.' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 233
+
+2020-01-24T16:47:23+00:00 CRITICAL syntax error, unexpected '.' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 233
+
+2020-01-24T16:54:44+00:00 CRITICAL Uncaught Error: Function name must be a string in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:231
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(288): skyverge_shop_display_skus('')
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/content-product.php(93): do_action('woocommerce_aft...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/template.php(724): require('/homepages/36/d...')
+#5 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(195): load_ in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 231
+
+2020-01-24T16:55:33+00:00 CRITICAL syntax error, unexpected ''</div>'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 233
+
+2020-01-24T16:59:12+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function WC_Product::get_attribute(), 0 passed in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php on line 234 and exactly 1 expected in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php:1890
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php(234): WC_Product->get_attribute()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(288): skyverge_shop_display_skus('')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelang in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-product.php in Zeile 1890
+

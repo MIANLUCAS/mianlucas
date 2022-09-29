@@ -1,0 +1,331 @@
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    line-height: 1.6;
+    margin: 0;
+    overflow-x: hidden;
+    padding: 0;
+    position: relative;
+    word-wrap: break-word;
+
+    &.page-template-page-blank {
+        #site-top-bar,
+        .site-header,
+        #site-footer {
+            display: none;
+        }
+    }
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    line-height: 1.2;
+    margin: 0 0 2rem 0;
+    padding: 0;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+    display: block;
+}
+
+iframe {
+    margin: 0 0 1rem 0;
+    width: 100%;
+}
+
+audio,
+canvas,
+progress,
+video {
+    display: inline-block;
+    vertical-align: baseline;
+}
+
+audio:not([controls]) {
+    display: none;
+    height: 0;
+}
+
+[hidden],
+template {
+    display: none;
+}
+
+a {
+    background: transparent;
+    text-decoration: none;
+    font-weight: bold;
+    line-height: inherit;
+    transition: all .3s ease;
+
+    img {
+        border: none;
+    }
+
+    &:active,
+    &:hover,
+    &:focus {
+        outline: 0 !important;
+    }
+}
+
+abbr[title] {
+    border-bottom: 1px dotted;
+}
+
+sub,
+sup {
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+
+sup {
+    top: -0.5em;
+}
+
+sub {
+    bottom: -0.25em;
+}
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
+figure {
+    margin: 0;
+}
+
+legend {
+    border: 0;
+    padding: 0;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    background: none;
+    margin: 0 0 1rem 0;
+
+    thead th {
+        font-size: 13px;
+        text-transform: uppercase;
+    }
+
+    tbody th {
+        font-weight: normal;
+    }
+
+    tr {
+        border-bottom-width: 1px;
+        border-bottom-style: solid;
+        text-align: left;
+
+        th,
+        td {
+            padding-top: 8px;
+            padding-bottom: 8px;
+        }
+    }
+}
+
+img {
+    border: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+div,
+li,
+form {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    line-height: 1.6;
+    margin: 0 0 1rem 0;
+    padding: 0;
+    text-rendering: optimizeLegibility;
+
+    aside {
+        font-style: italic;
+    }
+}
+
+hr {
+    box-sizing: content-box;
+    border: 0;
+    border-bottom: 1px solid;
+    clear: both;
+    margin-bottom: 1rem;
+    height: 0;
+}
+
+ul, ol {
+    margin: 0 0 1rem 0;
+    padding: 0;
+    list-style-position: inside;
+
+    li {
+        ul, ol {
+            list-style: inherit;
+            margin: 0;
+        }
+    }
+}
+
+abbr,
+acronym {
+    border-bottom: 1px dotted #ddd;
+    cursor: help;
+}
+
+acronym {
+    text-transform: uppercase;
+}
+
+abbr {
+    text-transform: none;
+}
+
+blockquote {
+    margin: 0 0 1rem 0;
+    padding: 0;
+    border-left: 1px solid #ddd;
+
+    cite {
+        display: block;
+        text-transform: uppercase;
+    }
+}
+
+ins {
+    text-decoration: none;
+}
+
+article {
+    margin: 0;
+}
+
+address {
+    margin: 0;
+    font-style: normal;
+}
+
+audio {
+    visibility: hidden;
+}
+
+pre {
+    font-family: monospace;
+    padding: 0;
+    margin: 0 0 1rem 0;
+    overflow: visible;
+    white-space: normal;
+}
+
+dl {
+    list-style-position: outside;
+    margin: 0 0 1rem 0;
+    padding: 0;
+
+    dt {
+        font-weight: bold;
+    }
+}
+
+.left {
+    float: left !important;
+}
+
+.right {
+    float: right !important;
+}
+
+.clearfix {
+    *zoom: 1;
+
+    &:before,
+    &:after {
+        content: " ";
+        display: table;
+    }
+
+    &:after {
+        clear: both;
+    }
+}
+
+.hide {
+    display: none;
+}
+
+.content-area a {
+    text-decoration: underline;
+}
+
+.entry-content {
+    > h1, > h2, > h3, > h4, > h5, > h6 {
+        margin-bottom: 2rem;
+        clear: both;
+    }
+
+    > p,
+    hr,
+    table,
+    ul,
+    ol,
+    blockquote,
+    article,
+    address,
+    pre,
+    dl,
+    input {
+        margin-bottom: 2rem;
+    }
+
+    > ul, > ol {
+        li {
+            padding: 5px 0;
+        }
+    }
+}
+
+@media only screen and (max-width: 63.9375em) {
+    body.admin-bar {
+        margin-top: -46px !important;
+        padding-top: 46px;
+    }
+}

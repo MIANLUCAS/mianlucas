@@ -1,0 +1,72 @@
+2020-01-18T10:48:26+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:232
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(288): skyverge_shop_display_skus('')
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/content-product.php(105): do_action('woocommerce_aft...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/template.php(724): require('/homepages/36/d...')
+#5 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.p in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 232
+
+2020-01-18T10:48:35+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:232
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(288): skyverge_shop_display_skus('')
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/content-product.php(105): do_action('woocommerce_aft...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/template.php(724): require('/homepages/36/d...')
+#5 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.p in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 232
+
+2020-01-18T10:49:57+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:232
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): skyverge_shop_display_skus('Lighthouse Lant...')
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('Lighthouse Lant...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/mini-cart.php(58): apply_filters('woocommerce_car...', 'Lighthouse Lant...', Array, '19f3cd308f1455b...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-template-functions.php( in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 232
+
+2020-01-18T10:50:05+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:232
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): skyverge_shop_display_skus('Lighthouse Lant...')
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('Lighthouse Lant...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/mini-cart.php(58): apply_filters('woocommerce_car...', 'Lighthouse Lant...', Array, '19f3cd308f1455b...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-template-functions.php( in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 232
+
+2020-01-18T10:50:07+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:232
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): skyverge_shop_display_skus('Lighthouse Lant...')
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('Lighthouse Lant...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/mini-cart.php(58): apply_filters('woocommerce_car...', 'Lighthouse Lant...', Array, '19f3cd308f1455b...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-template-functions.php( in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 232
+
+2020-01-18T10:50:27+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:232
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): skyverge_shop_display_skus('<a href="http:/...')
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('<a href="http:/...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php(67): apply_filters('woocommerce_car...', '<a href="http:/...', Array, '19f3cd308f1455b...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-c in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 232
+
+2020-01-18T10:57:22+00:00 CRITICAL syntax error, unexpected '$product' (T_VARIABLE) in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 229
+
+2020-01-18T10:58:35+00:00 CRITICAL syntax error, unexpected '$product' (T_VARIABLE) in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 229
+
+2020-01-18T10:58:38+00:00 CRITICAL syntax error, unexpected '$product' (T_VARIABLE) in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 229
+
+2020-01-18T10:58:39+00:00 CRITICAL syntax error, unexpected '$product' (T_VARIABLE) in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 229
+
+2020-01-18T10:59:31+00:00 CRITICAL syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 232
+
+2020-01-18T11:06:32+00:00 CRITICAL Cannot redeclare skyverge_shop_display_skus() (previously declared in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:229) in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 246
+
+2020-01-18T11:08:59+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 246
+
+2020-01-18T11:09:18+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 246
+
+2020-01-18T11:09:27+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 246
+
+2020-01-18T11:10:25+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 246
+
+2020-01-18T11:12:17+00:00 CRITICAL syntax error, unexpected '}', expecting ',' or ';' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 246
+

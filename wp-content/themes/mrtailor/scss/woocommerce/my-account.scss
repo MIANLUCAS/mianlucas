@@ -1,0 +1,275 @@
+.woocommerce-account {
+    .woocommerce-MyAccount-navigation {
+        ul {
+            list-style: none;
+
+            li {
+                padding: 0px 0 7px;
+
+                a {
+                    font-size: 13px;
+                    text-decoration: none;
+                    text-transform: uppercase;
+                }
+            }
+        }
+    }
+
+    table.account-orders-table,
+    table.account-payment-methods-table {
+        border: 0;
+
+        thead {
+            tr {
+                th {
+                    font-size: 13px;
+                    padding: 15px 15px 15px 0;
+
+                    &:last-child {
+                        padding: 15px 0;
+                    }
+                }
+            }
+        }
+
+        tbody {
+            tr {
+                td {
+                    padding: 15px 15px 15px 0;
+
+                    &:last-child {
+                        padding: 15px 0;
+                    }
+
+                    a.button {
+                        padding: 0;
+                        background-color: transparent;
+
+                        &:after {
+                            content: '/';
+                            margin: 0 5px;
+                        }
+
+                        &:last-child {
+                            &:after {
+                                content: none;
+                            }
+                        }
+                    }
+
+                    @media only screen and (max-width: 768px) {
+                        background-color: transparent !important;
+                        padding: 15px 0;
+
+                        &:before {
+                            font-size: 13px;
+                            font-weight: bold;
+                            text-transform: uppercase;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .woocommerce-address-fields__field-wrapper {
+        margin-bottom: 15px;
+    }
+
+    input#account_display_name {
+        + span {
+            margin-top: 5px;
+            display: block;
+
+            em {
+                font-size: 13px;
+                margin-top: 10px;
+            }
+        }
+    }
+
+    .edit-account fieldset {
+        border: 0;
+        margin: 20px 0 15px;
+
+        legend {
+            margin-bottom: 10px;
+        }
+    }
+}
+
+.woocommerce-account #add_payment_method #payment.woocommerce-Payment,
+.woocommerce-checkout #payment {
+    background: transparent;
+
+    ul.payment_methods {
+        border: 0;
+        padding: 0;
+        margin: 0 0 40px 0;
+
+        li {
+            line-height: 1.5;
+            border-bottom-width: 1px;
+            border-bottom-style: solid;
+            padding: 15px 0 20px;
+
+            &:first-child {
+                padding-top: 0;
+            }
+
+            &:last-child {
+                border-bottom: 0;
+            }
+
+            div.payment_box {
+                background: transparent;
+                margin: 1rem 0 0;
+                padding: 0 0 0 36px;
+
+                &:before {
+                    content: none;
+                }
+
+                ul.wc-saved-payment-methods {
+                    li {
+                        margin: 0;
+
+                        &:last-child {
+                            padding-bottom: 0;
+                        }
+
+                        input[type="radio"] {
+                            display: inline-block;
+                            width: 22px !important;
+                        }
+                    }
+                }
+
+                .wc-payment-form {
+                    border: 0;
+                    padding: 0;
+
+                    .form-row {
+                        padding: 0;
+
+                        label {
+                            line-height: 1.2;
+                        }
+                    }
+
+                    br {
+                        display: none;
+                    }
+                }
+
+                p.wc-stripe-sepa-mandate {
+                    margin: 0 0 1rem 0 !important;
+                }
+
+                input[type="checkbox"] {
+                    width: 22px !important;
+                }
+            }
+
+            img {
+                padding: 0;
+                margin: 0 0 0 10px;
+            }
+
+            .about_paypal {
+                font-size: 13px;
+                font-weight: bold;
+                line-height: 1.5;
+                float: none;
+                margin-left: 12px;
+                text-transform: uppercase;
+            }
+        }
+    }
+
+    div.form-row {
+        padding: 0;
+    }
+
+    .woocommerce-terms-and-conditions {
+        border-radius: 3px;
+        box-shadow: none;
+
+        * {
+            font-size: 13px !important;
+            text-align: left !important;
+            padding: 0 !important;
+            margin: 0 0 1rem 0 !important;
+        }
+    }
+
+    .input-checkbox {
+        display: inline-block;
+    }
+
+    button#place_order {
+        float: none;
+        width: 100%;
+        margin-top: 25px;
+    }
+}
+
+.woocommerce-checkout {
+    #order_review table.shop_table {
+        border: 0;
+        margin-bottom: 2rem;
+
+        thead {
+            tr {
+                th {
+                    font-size: 13px;
+                    padding: 15px 15px 15px 0;
+
+                    &:last-child {
+                        padding: 15px 0;
+                    }
+                }
+            }
+        }
+
+        tbody {
+            tr {
+                td {
+                    padding: 15px 15px 15px 0;
+
+                    &:last-child {
+                        padding: 15px 0;
+                    }
+
+                    a.button {
+                        padding: 0;
+                        background-color: transparent;
+
+                        &:after {
+                            content: '/';
+                            margin: 0 5px;
+                        }
+
+                        &:last-child {
+                            &:after {
+                                content: none;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        tfoot {
+            th {
+                font-size: 13px;
+                padding: 15px 15px 15px 0;
+                text-transform: uppercase;
+            }
+
+            td {
+                padding: 15px 0;
+            }
+        }
+    }
+}

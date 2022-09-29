@@ -1,0 +1,28 @@
+[
+  {
+    "demo_name": "Mr. Tailor Demo",
+    "file_path": "mrtailor-import.xml",
+    "settings": {
+      "reading_settings": {
+        "homepage": "Shop by Outfit",
+        "blog": "The Blog"
+      },
+      "woocommerce_pages": {
+        "woocommerce_shop_page_id": "The Shop",
+        "woocommerce_cart_page_id": "Shopping Cart",
+        "woocommerce_checkout_page_id": "Checkout",
+        "woocommerce_myaccount_page_id": "My Account"
+      },
+      "navigation": [
+        {
+          "name": "Main Navigation",
+          "location": "main-navigation"
+        },
+        {
+          "name": "Top Bar Navigation",
+          "location": "top-bar-navigation"
+        }
+      ]
+    }
+  }
+]

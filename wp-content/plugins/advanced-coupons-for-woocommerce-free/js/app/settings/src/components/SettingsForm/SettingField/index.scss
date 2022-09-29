@@ -1,0 +1,28 @@
+.setting-tooltip-icon {
+    float: right;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.setting-tooltip-content {
+    max-width: 300px;
+}
+.setting-field-column {
+
+    .ant-input {
+        width: calc(100% - 30px);
+    }
+    .ant-spin {
+        float: right;
+    }
+    
+    .invalid-input {
+        overflow: hidden;
+        max-height: 0;
+        transition-property: all;
+        transition-duration: .5s;
+        transition-timing-function: cubic-bezier(0, 1, 0.5, 1);
+    }
+    .invalid-input.show {
+        max-height: 20px;
+    }
+}

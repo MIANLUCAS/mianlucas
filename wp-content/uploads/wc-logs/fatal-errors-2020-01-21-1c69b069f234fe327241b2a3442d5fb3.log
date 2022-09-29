@@ -1,0 +1,153 @@
+2020-01-21T13:44:51+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php:116
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(97): wc_get_template('cart/cart.php')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woo in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 116
+
+2020-01-21T13:45:36+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php:116
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(97): wc_get_template('cart/cart.php')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woo in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 116
+
+2020-01-21T13:46:31+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php:116
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(97): wc_get_template('cart/cart.php')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woo in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 116
+
+2020-01-21T13:46:34+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php:116
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(97): wc_get_template('cart/cart.php')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woo in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 116
+
+2020-01-21T13:48:47+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php:118
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(97): wc_get_template('cart/cart.php')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woo in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 118
+
+2020-01-21T13:48:50+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php:118
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(97): wc_get_template('cart/cart.php')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woo in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 118
+
+2020-01-21T13:48:54+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php:118
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(97): wc_get_template('cart/cart.php')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woo in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 118
+
+2020-01-21T13:49:23+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 142
+
+2020-01-21T13:51:32+00:00 CRITICAL syntax error, unexpected '' );' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 147
+
+2020-01-21T13:52:13+00:00 CRITICAL syntax error, unexpected '' ); ?>' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 122
+
+2020-01-21T13:52:50+00:00 CRITICAL syntax error, unexpected 'woocommerce_after_shop_loop_it' (T_STRING), expecting ')' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 116
+
+2020-01-21T13:53:52+00:00 CRITICAL Uncaught Error: Call to a member function get_average_rating() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/loop/rating.php:28
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1292): wc_get_template('loop/rating.php')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): woocommerce_template_loop_rating('skyverge_shop_d...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#5 /homepages/36/d539495599/htdocs/wordpress/savoy.miguel in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/loop/rating.php in Zeile 28
+
+2020-01-21T13:54:37+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function add_action(), 1 passed in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php on line 116 and at least 2 expected in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php:403
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php(116): add_action('skyverge_shop_d...')
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(97): wc_get_template('cart/cart.php')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php in Zeile 403
+
+2020-01-21T14:00:13+00:00 CRITICAL Uncaught Error: Call to a member function has_weight() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3314
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(288): wc_display_product_attributes(NULL)
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php(116): do_action('woocommerce_pro...', NULL)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#5 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangel in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-template-functions.php in Zeile 3314
+
+2020-01-21T14:00:19+00:00 CRITICAL Uncaught Error: Call to a member function has_weight() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3314
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(288): wc_display_product_attributes(NULL)
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php(116): do_action('woocommerce_pro...', NULL)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#5 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangel in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-template-functions.php in Zeile 3314
+
+2020-01-21T14:00:41+00:00 CRITICAL Uncaught Error: Call to a member function has_weight() on string in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-template-functions.php:3314
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(288): wc_display_product_attributes('')
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters('', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(478): WP_Hook->do_action(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php(116): do_action('woocommerce_pro...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#5 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas. in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-template-functions.php in Zeile 3314
+
+2020-01-21T14:04:58+00:00 CRITICAL syntax error, unexpected 'sku' (T_STRING), expecting ',' or ';' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 116
+
+2020-01-21T14:08:49+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php:116
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(97): wc_get_template('cart/cart.php')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woo in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 116
+
+2020-01-21T14:10:11+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php:118
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(97): wc_get_template('cart/cart.php')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woo in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 118
+
+2020-01-21T14:10:14+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php:118
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(97): wc_get_template('cart/cart.php')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woo in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 118
+
+2020-01-21T14:10:44+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php:118
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(97): wc_get_template('cart/cart.php')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woo in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 118
+
+2020-01-21T14:10:47+00:00 CRITICAL Uncaught Error: Call to a member function get_sku() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php:118
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(97): wc_get_template('cart/cart.php')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woo in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 118
+
+2020-01-21T14:11:17+00:00 CRITICAL syntax error, unexpected '}', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 145
+
+2020-01-21T14:14:43+00:00 CRITICAL syntax error, unexpected '$sku' (T_VARIABLE), expecting ',' or ';' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php in Zeile 118
+

@@ -1,0 +1,90 @@
+.site-social-icons-shortcode
+{
+	vertical-align: middle;
+	clear: both;
+	margin: 5px -15px 2.5rem -15px;
+	display: block;
+
+	ul.mt_social_icons_list
+	{
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	    line-height: 1em;
+
+		&.align-left
+		{
+			text-align:left;
+		}
+
+		&.align-center
+		{
+			text-align:center;
+		}
+
+		&.align-right
+		{
+			text-align:right;
+		}
+
+		li.mt_social_icon
+		{
+			padding: 5px 12px;
+			display: inline-block;
+			vertical-align: middle;
+
+			img {
+				vertical-align: top;
+			}
+		}
+	}
+}
+
+// Top Bar Socials
+#site-top-bar
+{
+	.site-social-icons-shortcode
+	{
+	    flex-shrink: 0;
+        text-align: center;
+    	margin: 0;
+
+    	ul.mt_social_icons_list
+    	{
+		    line-height: 1;
+		    list-style: none;
+		    margin: 0;
+
+		    li.mt_social_icon
+		    {
+	    	    padding: 4px 7px 0 7px;
+    			float: left;
+
+				a {
+					transition: all .3s ease;
+				    vertical-align: middle;
+
+					svg {
+						transition: all .3s ease;
+					}
+				}
+
+				&:first-child
+    			{
+				    padding: 4px 7px 0 0;
+				}
+
+    			&:last-child
+    			{
+				    padding: 4px 0 0 7px;
+				}
+
+				&:hover {
+					a {
+						opacity: .6;
+					}
+				}
+		    }
+    	}
+	}
+}

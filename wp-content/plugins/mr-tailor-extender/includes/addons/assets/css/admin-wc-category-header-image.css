@@ -1,0 +1,15 @@
+table.wp-list-table .column-header {
+    width: 52px;
+    text-align: center;
+    white-space: nowrap; }
+
+#product_cat_header {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float:left;
+    margin-right:10px;
+    width:60px;
+    height:60px;
+    overflow: hidden;
+}

@@ -1,0 +1,437 @@
+/**********************************************************************************/
+/* Global *************************************************************************/
+/**********************************************************************************/
+
+.row-relative {
+	position: relative;
+}
+
+.vertical-aligned {
+	margin: auto;
+	position: absolute;
+	top: 50%;
+	margin-top:-20px;
+}
+
+.vertical-aligned.to-left {
+	left:0; right:auto;
+}
+
+.vertical-aligned.to-right {
+	right:0; left:auto;
+}
+
+/**********************************************************************************/
+/* Aside **************************************************************************/
+/**********************************************************************************/
+
+.widget-area {
+	font-size:14px;
+	display: none;
+}
+
+.widget {
+	margin-bottom:45px;
+}
+
+.widget a.button {
+	font-weight: 700 !important;
+}
+
+.widget form {
+	margin:0;
+}
+
+.widget ul,
+.widget ol,
+.site-content .widget ul,
+.site-content .widget ol,
+.site-content .widget p,
+.content-area .widget ul,
+.content-area .widget ol,
+.content-area .widget p
+{
+	margin:0 0 0 0;
+	font-size:14px;
+	list-style:none;
+}
+
+.content-area .widget a {
+	text-decoration: none;
+}
+
+.widget.widget_text .textwidget ul,
+.site-content .widget.widget_text .textwidget ul
+{
+	list-style-type: disc;
+	list-style: inherit;
+	margin: 1.2em 0 2em 2.142em;
+	font-size:14px;
+}
+
+.widget.widget_text .textwidget ol,
+.site-content .widget.widget_text .textwidget ol
+{
+	list-style-type: decimal;
+	margin: 1.2em 0 2em 2.142em;
+	font-size:14px;
+}
+
+
+@media only screen and (min-width: 40.063em)
+{
+	.site-content .widget.widget_text .textwidget ul,
+	.site-content .widget.widget_text .textwidget ol
+	{
+		margin: 2em 0 2em 1.875em;
+	}
+}
+
+.widget ul .children,
+.widget ul .sub-menu,
+.widget ol .children,
+.widget ol .sub-menu
+{
+	margin:10px 0 10px 20px;
+}
+
+.widget li {
+	margin:0 0 15px 0;
+}
+
+.widget .menu li {
+	margin:0 0 5px 0;
+}
+
+.widget h3,
+.woocommerce .widget h3,
+.woocommerce.widget h3 {
+	text-transform:uppercase;
+	font-size: 13px !important;
+	margin:0 0 25px 0;
+	padding:0;
+	text-align: left;
+
+	.rtl & {
+		text-align: right;
+	}
+}
+
+.widget .post-date {
+	color:#808081;
+	display:block;
+	font-style:italic;
+}
+
+.widget .recentcomments {
+	position:relative;
+	text-indent:23px;
+}
+
+.widget .recentcomments:before {
+	content: '';
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	top: 4px;
+	left: 0;
+	width: 16px;
+	height: 16px;
+}
+
+.widget .recentcomments a {
+	font-style:normal;
+}
+
+.widget .cat-item {
+	color:#a1a1a1;
+	margin:0 0 5px 0;
+	text-transform:capitalize;
+}
+
+.widget .tagcloud a {
+	font-size:11px !important;
+	text-transform:uppercase;
+	padding: 8px 10px 6px 10px;
+	border-width: 1px;
+	border-style: solid;
+	display: inline-block;
+	margin:0 4px 8px 0;
+	font-weight: bold;
+}
+
+.widget .tagcloud a:hover {
+	background: #314381;
+	color:#fff !important;
+	border-width:1px;
+	border-style:solid;
+	border-color:#314381;
+}
+
+.widget_archive li {
+	margin:0 0 5px 0;
+}
+
+.widget_meta li {
+	margin:0 0 5px 0;
+}
+
+.widget_rss .widget-title a {
+	color:#000;
+	font-weight:bold !important;
+}
+
+.widget_rss .widget-title a:first-child {
+	display:none;
+}
+
+.widget_rss .rss-date,
+.widget_rss cite
+{
+	display:block;
+	padding:10px 0;
+	color:#555;
+	font-style:italic;
+}
+
+.widget_rss .rssSummary {
+	display:block;
+}
+
+.widget_calendar table {
+	border:0;
+}
+
+.widget_calendar table thead,
+.widget_calendar table tfoot
+{
+	background:none;
+}
+
+.widget_calendar caption {
+    text-align: left;
+}
+
+.widget_calendar table thead tr th,
+.widget_calendar table thead tr td,
+.widget_calendar table tfoot tr th,
+.widget_calendar table tfoot tr td {
+	color: #a1a1a1;
+}
+
+.widget_calendar table tr th,
+.widget_calendar table tr td
+{
+	text-align:left;
+}
+
+.widget_calendar table thead tr th,
+.widget_calendar table tfoot tr td
+{
+	padding: 20px 0;
+}
+
+.widget_calendar table tr.even,
+.widget_calendar table tr.alt,
+.widget_calendar table tr:nth-of-type(even)
+{
+	background:none;
+}
+
+.widget_calendar table tr {
+    border-bottom: 0px;
+}
+
+.widget_calendar #prev {
+	text-align:left;
+}
+
+.widget_calendar #next {
+	text-align:right;
+}
+
+.widget_product_search label,
+.widget_search label
+{
+	display:none;
+}
+
+.widget .select2-selection__arrow:before
+{
+	top: -1px;
+}
+
+.widget_product_search input,
+.widget_search input
+{
+	margin:0;
+	padding:0 10px;
+}
+
+.widget_search .search-submit,
+.widget_product_search input[type="submit"],
+.widget_product_search button[type="submit"],
+aside .search-but-added,
+aside #searchsubmit
+{
+	display: none;
+}
+
+
+.widget_product_search .search-but-added,
+.widget_search .search-but-added
+{
+	position:absolute;
+	top:4px;
+	right:0px;
+	padding:6px 0 0 0;
+	font-size:13px;
+	text-transform:uppercase;
+	width:25px;
+	height:36px;
+	z-index:2;
+	text-align: right;
+	overflow: hidden;
+	font-size: 24px;
+	color: #314381;
+	cursor:pointer;
+}
+
+.widget_media_gallery .gallery-item .gallery-caption-trigger
+{
+	display: none;
+}
+
+
+
+/**********************************************************************************/
+/* Offcanvas **********************************************************************/
+/**********************************************************************************/
+
+.right-off-canvas-menu-content {
+	padding:20px 30px;
+	color:#fff;
+}
+
+.right-off-canvas-menu-content a {
+	color:#ccc;
+}
+
+.right-off-canvas-menu-content a:hover {
+	color:#999;
+}
+
+.right-off-canvas-menu-content .widgettitle {
+	color:#fff;
+	margin-bottom:20px;
+}
+
+.right-off-canvas-menu-content .buttons a {
+	width:100%;
+}
+
+/**********************************************************************************/
+/* Single Product *****************************************************************/
+/**********************************************************************************/
+
+.woocommerce-product-details__short-description {
+	margin:0 0 27px 0;
+}
+
+.variations_lines {
+	padding:0 0 15px 0;
+}
+
+.variations_lines:last-child
+{
+	padding-bottom: 0;
+}
+
+.variations_lines select
+{
+	height: 3.25rem;
+	margin-bottom: 0;
+	padding-left: 20px;
+	font-weight: bold;
+}
+
+.variations_lines select option
+{
+	font-size: 1rem;
+}
+
+.variations_lines select:focus {
+    outline: none;
+}
+
+.woocommerce div.product form.cart .reset_variations {
+	display: inline-block;
+	font-size: 13px;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+.single_variation {
+	margin:0 0 30px 0;
+}
+
+.single-product.without-sidebar .product_meta
+{
+	text-align: center;
+}
+
+.woocommerce div.product p.cart
+{
+	margin-bottom: 26px;
+}
+
+.product_navigation.hidden {
+	visibility:hidden;
+}
+
+.related.products > h2,
+.upsells.products > h2
+{
+	padding: 0 15px;
+}
+
+/**********************************************************************************/
+/* WP Gallery *********************************************************************/
+/**********************************************************************************/
+
+.gallery dl dt {
+	padding:0;
+	margin:0;
+}
+
+.gallery-item {
+    padding:0 !important;
+    margin:0 !important;
+}
+
+.gallery-item img {
+	width:100%;
+	height:auto;
+	border:0 !important;
+}
+
+/**********************************************************************************/
+/* WP Mandatory *******************************************************************/
+/**********************************************************************************/
+
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.5em;
+}
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1.5em;
+}
+.aligncenter {
+	clear: both;
+	display: block;
+	margin: 0 auto;
+}

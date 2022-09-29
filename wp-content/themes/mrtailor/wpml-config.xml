@@ -1,0 +1,11 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_mrtailor">
+			<key name="top_bar_text"/>
+			<key name="footer_copyright_text"/>
+			<key name="sale_text"/>
+			<key name="out_of_stock_text"/>
+			<key name="minicart_text"/>
+		</key>
+	</admin-texts>
+</wpml-config>

@@ -1,0 +1,166 @@
+.st-menu {
+	position: fixed;
+	top: 0;
+	left: 0;
+	z-index: 1000;
+	width: 320px;
+	height: 100%;
+	padding: 30px;
+	transition: all .6s ease;
+	font-size: 16px;
+	overflow-y:auto;
+
+	@media only screen and (min-width: 40.063em) {
+		padding: 60px;
+		width: 460px;
+	}
+
+	&:after {
+		position: absolute;
+		top: 0;
+		right: 0;
+		width: 100%;
+		height: 100%;
+		background: rgba(0,0,0,0.2);
+		content: '';
+		opacity: 1;
+	}
+
+	&.slide-from-left {
+		left: -320px;
+		right: inherit;
+		-ms-overflow-style: none;  /* Internet Explorer 10+ */
+	    overflow-y: auto;
+	    scrollbar-width: none;  /* Firefox */
+
+		@media only screen and (min-width: 40.063em) {
+			left: -460px;
+		}
+
+		&::-webkit-scrollbar {
+		    display: none;  /* Safari and Chrome */
+		}
+
+		&:after {
+			display: none;
+		}
+
+		&.open {
+			left: 0;
+		}
+	}
+
+	&.slide-from-right {
+		right: -320px;
+		left: inherit;
+		-ms-overflow-style: none;  /* Internet Explorer 10+ */
+	    overflow-y: auto;
+	    scrollbar-width: none;  /* Firefox */
+
+		@media only screen and (min-width: 40.063em) {
+			right: -460px;
+		}
+
+		&::-webkit-scrollbar {
+		    display: none;  /* Safari and Chrome */
+		}
+
+		&:after {
+			display: none;
+		}
+
+		&.open {
+			right: 0;
+		}
+	}
+
+	&.open {
+		transition: all .6s ease;
+	}
+}
+
+.admin-bar .st-menu {
+	top: 32px;
+	height: calc( 100% - 32px );
+
+	@media only screen and (max-width: 782px) {
+		top: 46px;
+		height: calc( 100% - 46px );
+	}
+}
+
+.st-menu-open {
+	.st-pusher-after {
+		width: 100%;
+		height: 100%;
+		opacity: 1;
+		visibility: visible;
+		transition: all .5s;
+	}
+
+	.st-menu {
+		&:after {
+			width: 0;
+			height: 0;
+			opacity: 0;
+		}
+	}
+}
+
+/**********************************************************************************/
+/* Offcanvas Widgets **************************************************************/
+/**********************************************************************************/
+
+.woocommerce .st-menu h2,
+.st-menu h2
+{
+	margin: 0;
+	padding: 0;
+	margin: 30px 20px 35px;
+}
+
+.price_label:first-child
+{
+	display: none;
+}
+
+.widget.widget_price_filter .price_slider_amount .button
+{
+	padding:0 !important;
+	margin:0 !important;
+	line-height:inherit !important;
+	height:auto !important;
+	background:none !important;
+	border: none;
+	text-align: right;
+	width: 45px;
+}
+
+.widget.widget_price_filter .price_slider_amount .button:hover
+{
+	background:none !important;
+}
+
+table.cart_list .product-description
+{
+	padding-left: 20px;
+}
+
+.st-menu .widget .product-title
+{
+	display: block;
+    font-weight: 700 !important;
+	margin-top: -2px;
+    margin-bottom: 3px;
+}
+
+.cart .product-variation
+{
+	display: block;
+}
+
+.product-description .amount
+{
+	margin-right: 8px;
+	display: inline-block;
+}

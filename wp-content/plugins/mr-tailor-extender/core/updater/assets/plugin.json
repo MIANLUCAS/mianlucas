@@ -1,0 +1,28 @@
+{
+	"name": "Mr. Tailor Extender",
+	"version": "1.4.6",
+	"download_url": "https://github.com/getbowtied/mr-tailor-extender/zipball/master",
+
+	"homepage": "https://themeforest.net/item/mr-tailor-responsive-woocommerce-theme/7292110",
+	"requires": "5.0",
+	"tested": "5.8",
+	"last_updated": "2021-09-03 15:00:00",
+
+	"author": "GetBowtied",
+	"author_homepage": "https://getbowtied.com/",
+
+	"sections": {
+		"description": "<p>Companion plugin for the <b>Mr. Tailor</b> theme. Extends the functionality by adding theme specific features.</p><h4>Features:</h4><ul><li>Adds 'Social Media' section in Customizer for easy management of links to social media profiles</li><li>Adds header image option for WooCommerce product categories</li><li>Adds 'Additional JS' section in Customizer allowing for site customization with custom JavaScript code</li><li>Adds social sharing buttons for WooCommerce products</li></ul><h4>WPBakery Page Builder Elements:</h4><ul><li>Banner</li><li>Blog Posts ( List & Slider )</li><li>Lookbook</li></ul><h4>Gutenberg Blocks:</h4><ul><li>Banner</li><li>Portfolio</li><li>Blog Posts Grid</li><li>Blog Posts Slider</li><li>Lookbook</li><li>Social Media Profiles</li></ul>",
+		"changelog": "<h4>1.4.6</h4><ul><li>WordPress 5.8 compatibility updates</li></ul><h4>1.4.5</h4><ul><li>Maintenance: Fixed a few jQuery deprecated features warnings</li></ul><h4>1.4.4</h4><ul><li>Maintenance: Updated Swiper library to its latest version</li></ul><h4>1.4.3</h4><ul><li>WPBakery Page Builder compatibility updates</li></ul><h4>1.4.2</h4><ul><li>Fixed: Product visibility for WPBakery product slider elements</li></ul><h4>1.4.1</h4><ul><li>Upcoming WordPress 5.5 compatibility updates</li></ul><h4>1.4.0</h4><ul><li>Mr. Tailor 3.0 compatibility updates</li><li>New: Social Media Customizer Control that allows for custom Icons and Social Profile links</li><li>Maintenance: Improved blocks functionality</li><li>Maintenance: Various fixes and improvements were made for consistency</li></ul><h4>1.3.9</h4><ul><li>Small maintenance updates</li></ul><h4>1.3.8</h4><ul><li>Small maintenance updates</li></ul><h4>1.3.7</h4><ul><li>WordPress 5.3.1 compatibility updates</li></ul><h4>1.3.6</h4><ul><li>Fixed: Menu Background URL not working</li></ul><h4>1.3.5</h4><ul><li>Upcoming WordPress 5.3 compatibility updates</li></ul><h4>1.3.4</h4><ul><li>Fix: WPBakery editor error</li><li>Small maintenance updates</li></ul><h4>1.3.3</h4><ul><li>Small maintenance updates</li></ul><h4>1.3.2</h4><ul><li>Small maintenance updates</li></ul><h4>1.3.1</h4><ul><li>Adds: custom menu background image (functionality transferred from the theme)</li></ul><h4>1.3</h4><ul><li>Adds: the 'Social Media' section in Customizer allowing for easy management of links to social media profiles (functionality transferred from the theme)</li><li>Adds: Theme-specific WPBakery Page Builder elements: Banner, Blog Posts Slider & List, Lookbook (functionality transferred from the theme)</li><li>Adds: Upload header images for WooCommerce product categories (functionality transferred from the theme)</li><li>Adds: Theme-specific 'Additional JS' section in Customizer allowing for site customization with custom JavaScript code</li><li>Adds: Theme-specific social sharing buttons for WooCommerce products</li></ul><h4>1.2.1</h4><ul><li>WordPress 5.1 compatibility improvements</li></ul><h4>1.2</h4><ul><li>WordPress 5+ compatibility improvements</li><li>Improved styles for theme neutrality</li><li>Localization issues with the Posts Grid and Posts Slider Blocks</li></ul><h4>1.1</h4><ul><li>WordPress 5+ compatibility improvements</li></ul><h4>1.0</h4><ul><li>Initial Version</li></ul>"
+	},
+
+	"icons" : {
+		"1x" : "https://raw.githubusercontent.com/getbowtied/mr-tailor-extender/master/core/updater/assets/images/mrtailor-extender-128x128.png",
+		"2x" : "https://raw.githubusercontent.com/getbowtied/mr-tailor-extender/master/core/updater/assets/images/mrtailor-extender-256x256.png"
+    },
+
+	"banners": {
+		"low": "https://raw.githubusercontent.com/getbowtied/mr-tailor-extender/master/core/updater/assets/images/mrtailor-banner-772x250.png",
+		"high": "https://raw.githubusercontent.com/getbowtied/mr-tailor-extender/master/core/updater/assets/images/mrtailor-banner-1544x500.png"
+	}
+}

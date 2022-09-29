@@ -1,0 +1,28 @@
+.category_header.with_featured_img {
+    color: #fff;
+    margin-top: 0;
+    padding: 100px 0;
+
+    h1,
+    .woocommerce-breadcrumb a {
+        color: #fff;
+    }
+
+    .woocommerce-breadcrumb {
+        color: rgba( 255, 255, 255, .45 );
+
+        a:hover {
+            color: #fff;
+            opacity: .45;
+        }
+    }
+
+    .term-description {
+        margin: 25px 0 0 0;
+        position: relative;
+
+        > p {
+            margin-bottom: 0;
+        }
+    }
+}

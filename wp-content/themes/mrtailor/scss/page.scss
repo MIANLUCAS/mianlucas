@@ -1,0 +1,46 @@
+.page {
+    .entry-header,
+    .category_header {
+        .page-description {
+            color: #fff;
+            margin: 0 0 50px 0;
+            position: relative;
+        }
+
+        &.with_featured_img {
+            background-size: cover;
+            background-repeat: no-repeat;
+            color: #fff;
+            padding: 100px 0 50px 0;
+            margin-top: 0;
+            margin-bottom: 50px;
+            position: relative;
+
+            .entry-title {
+                color: #fff;
+            }
+
+            .page_header_overlay {
+                content: "";
+                display: block;
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+                background: rgba(0,0,0,.5);
+            }
+        }
+    }
+}
+
+.normal_header {
+    .entry-header.with_featured_img,
+    .category_header.with_featured_img {
+        margin-top: -50px;
+
+        @media only screen and (max-width: 768px) {
+            margin-top: -25px;
+        }
+    }
+}

@@ -1,0 +1,325 @@
+// vertical slider
+.gbt_18_default_slider {
+    .gbt_18_content .gbt_18_content_wrapper {
+        .gbt_18_current_slide,
+        .gbt_18_number_of_items {
+            font-weight: bold;
+        }
+
+        .gbt_18_slide_title {
+            text-align: left;
+        }
+
+        .gbt_18_slide_link {
+            display: none;
+        }
+
+        .single_add_to_cart_button {
+            border-radius: 3px;
+            outline: 0;
+            text-decoration: none;
+            padding: 1.1775rem 2rem 1.025rem;
+
+            &.added {
+                &:after {
+                    font-family: WooCommerce;
+                    content: "\e017";
+                    margin-left: .53em;
+                    vertical-align: bottom;
+                    font-size: 12px;
+                    top: -1px;
+                    position: relative;
+                }
+            }
+        }
+
+        a.added_to_cart {
+            display: none !important;
+        }
+
+        .gbt_18_slide_controls {
+            span.gbt_18_prev_slide,
+            span.gbt_18_next_slide {
+                border: 0;
+            }
+
+            span.gbt_18_next_slide {
+                @media all and (min-width: 992px) {
+                    margin-left: 10px;
+                }
+            }
+        }
+    }
+
+    @media all and (max-width: 991px) {
+        height: auto !important;
+
+        .gbt_18_content {
+            height: auto !important;
+        }
+
+        .gbt_18_img {
+            max-height: 50vh !important;
+        }
+    }
+}
+
+// lookbook - product reveal
+.wp-block-getbowtied-lookbook-reveal.gbt_18_lookbook_reveal_wrapper {
+    .gbt_18_description {
+        a {
+            color: inherit;
+        }
+    }
+
+    .single_add_to_cart_button {
+        border-radius: 3px;
+        text-decoration: none;
+        padding: 1.1775rem 2rem 1.025rem;
+    }
+}
+
+// scattered product list
+.wp-block-getbowtied-scattered-product-list.gbt_18_expanding_grid {
+    .gbt_18_expanding_grid_item {
+        a {
+            text-decoration: none;
+        }
+
+        .gbt_18_product_title {
+            margin-bottom: 10px;
+        }
+
+        .gbt_18_product_price {
+            del {
+                opacity: .5;
+            }
+        }
+    }
+}
+
+// lookbook - shop by outfit
+.wp-block-getbowtied-lookbook-shop-by-outfit.gbt_18_snap_look_book {
+    .gbt_18_current_book {
+        font-weight: bold;
+        line-height: 1.2;
+    }
+
+    .gbt_18_look_book_item {
+        .gbt_18_look_product_box {
+            &.rows-2 {
+                padding: 100px 8%;
+            }
+
+            > .woocommerce {
+                width: auto;
+            }
+
+            @media only screen and (max-width: 768px) {
+        		ul.products li.product {
+                    float: none;
+                    margin-bottom: 3rem !important;
+                    width: 100%;
+
+                    &:only-child {
+                        margin-bottom: 0 !important;
+                    }
+                }
+        	}
+        }
+    }
+
+    .gbt_18_hero_title {
+        margin-bottom: 50px;
+
+        @media only screen and (max-width: 768px) {
+    		margin-bottom: 25px;
+    	}
+    }
+
+    .gbt_18_hero_subtitle {
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+    .gbt_18_scroll_down_button {
+        border: 0;
+    }
+}
+
+.st-content .gbt_18_pagination {
+    .gbt_18_snap_page {
+        a {
+            font-size: 14px;
+            text-decoration: none;
+        }
+    }
+}
+
+// product carousel
+.wp-block-getbowtied-carousel {
+    .swiper-wrapper .swiper-slide ul.products {
+        li.product {
+            .woocommerce-loop-product__link {
+                display: flex;
+                text-decoration: none;
+            }
+
+            .star-rating {
+                font-size: 12px;
+                display: block;
+                float: none;
+                margin: 8px 0 0;
+                overflow: hidden;
+                position: relative;
+                height: 1em;
+                line-height: 1;
+                width: 5.4em;
+                font-family: star;
+
+                &:before {
+                    content: "\73\73\73\73\73";
+                    float: left;
+                    top: 0;
+                    left: 0;
+                    position: absolute;
+                }
+
+                span {
+                    overflow: hidden;
+                    float: left;
+                    top: 0;
+                    left: 0;
+                    position: absolute;
+                    padding-top: 1.5em;
+
+                    &:before {
+                        content: "\53\53\53\53\53";
+                        top: 0;
+                        position: absolute;
+                        left: 0;
+                    }
+                }
+            }
+
+            .product_after_shop_loop_price {
+                .price {
+                    display: block;
+                }
+
+                del {
+                    opacity: .5;
+                }
+            }
+        }
+    }
+
+    .swiper-button-next,
+    .swiper-button-prev {
+        svg {
+            display: none;
+        }
+    }
+}
+
+// categories grid
+.wp-block-getbowtied-categories-grid.gbt_18_categories_grid_wrapper {
+    &.is-style-layout-1,
+    &.is-style-layout-2 {
+        .gbt_18_category_grid_item {
+
+            .gbt_18_category_grid_item_img:hover {
+                opacity: 1;
+            }
+
+            h4.gbt_18_category_grid_item_title {
+                font-weight: bold;
+                font-size: 1em;
+                padding: 30px 30px 50px;
+                position: absolute;
+                bottom: 0;
+                width: calc( 100% - 16px );
+                transition: all .3s ease;
+
+                @media all and (max-width: 767px) {
+                    width: 100%;
+                }
+
+                .gbt_18_category_grid_item_count {
+                    background: transparent;
+                    font-weight: normal;
+                    float: right;
+                    margin: 0;
+                    opacity: 0;
+                    visibility: hidden;
+                    transition: all .3s ease;
+
+                    @media all and (max-width: 767px) {
+                        opacity: .5;
+                        visibility: visible;
+                    }
+                }
+            }
+
+            &:hover {
+                h4.gbt_18_category_grid_item_title {
+                    padding: 30px 30px 70px;
+
+                    .gbt_18_category_grid_item_count {
+                        opacity: .5;
+                        visibility: visible;
+                    }
+                }
+            }
+        }
+    }
+
+    &.is-style-layout-1 {
+        .gbt_18_category_grid_item {
+            h4.gbt_18_category_grid_item_title {
+                left: 16px;
+                @media all and (max-width: 767px) {
+                    left: 0;
+                }
+            }
+        }
+    }
+
+    &.is-style-layout-2 {
+        .gbt_18_category_grid_item {
+            h4.gbt_18_category_grid_item_title {
+                left: 8px;
+                @media all and (max-width: 767px) {
+                    left: 0;
+                }
+            }
+        }
+    }
+
+    &.is-style-layout-3 {
+        .gbt_18_category_grid_item {
+            h4.gbt_18_category_grid_item_title {
+                font-size: 1em;
+                padding: 15px 15px;
+                border-radius: 3px;
+                transition: all .3s ease;
+
+                @media all and (max-width: 767px) {
+                    left: 24px;
+                }
+
+                .gbt_18_category_grid_item_count {
+                    background: transparent;
+                    font-weight: normal;
+                    margin: 2px 0 0 6px;
+                    opacity: .5;
+                    transition: all .3s ease;
+                }
+            }
+
+            .gbt_18_category_grid_item_img:hover {
+                opacity: 1;
+            }
+        }
+    }
+}

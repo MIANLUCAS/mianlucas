@@ -1,0 +1,67 @@
+/*
+  Flaticon icon font: Flaticon
+  Creation date: 21/02/2019 03:37
+  */
+
+@font-face {
+    font-family: "wtypc_nav_icons";
+    src: url("../fonts/nav/wtypc_nav_icons.eot");
+    src: url("../fonts/nav/wtypc_nav_icons.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/nav/wtypc_nav_icons.woff2") format("woff2"),
+    url("../fonts/nav/wtypc_nav_icons.woff") format("woff"),
+    url("../fonts/nav/wtypc_nav_icons.ttf") format("truetype"),
+    url("../fonts/nav/wtypc_nav_icons.svg#Flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+    @font-face {
+        font-family: "wtypc_nav_icons";
+        src: url("../fonts/nav/wtypc_nav_icons.svg#Flaticon") format("svg");
+    }
+}
+
+[class^="wtypc_nav_icons-"]:before, [class*=" wtypc_nav_icons-"]:before,
+[class^="wtypc_nav_icons-"]:after, [class*=" wtypc_nav_icons-"]:after {
+    font-family: wtypc_nav_icons;
+    font-size: 20px;
+    font-style: normal;
+    margin: 0;
+}
+
+.wtypc_nav_icons-next:before {
+    content: "\f100";
+}
+
+.wtypc_nav_icons-next-1:before {
+    content: "\f101";
+}
+
+.wtypc_nav_icons-next-2:before {
+    content: "\f102";
+}
+
+.wtypc_nav_icons-next-3:before {
+    content: "\f103";
+}
+
+.wtypc_nav_icons-back:before {
+    content: "\f104";
+}
+
+.wtypc_nav_icons-back-1:before {
+    content: "\f105";
+}
+
+.wtypc_nav_icons-left-arrow:before {
+    content: "\f106";
+}
+
+.wtypc_nav_icons-round-left-button:before {
+    content: "\f107";
+}
+
+.wtypc_nav_icons-debit-card:before {
+    content: "\f108";
+}

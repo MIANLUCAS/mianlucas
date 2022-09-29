@@ -1,0 +1,41 @@
+.gbt_18_mt_editor_social_media_wrapper {
+    padding: 0.5em;
+    width: 100%;
+
+	.gbt_18_mt_editor_social_media_setup {
+		color: #5d5d5d;
+		font-size: 13px;
+		margin-bottom: 0;
+	    margin-top: 0;
+	}
+}
+
+.gbt_18_mt_social_media_profiles {
+	ul.mt_social_icons_list {
+        margin-left: 0;
+        padding-left: 0;
+
+		&.align-right {
+			text-align: right;
+		}
+
+		&.align-center {
+			text-align: center;
+		}
+
+		li {
+			display: inline;
+			list-style-type: none;
+		    padding: 5px 0.6em;
+
+		    a {
+		    	pointer-events: none;
+		    	text-decoration: none;
+
+		    	span {
+					display: none;
+				}
+			}
+		}
+	}
+}

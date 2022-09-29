@@ -1,0 +1,125 @@
+.login_header {
+    display: none;
+}
+
+body.woocommerce-account:not(.logged-in) {
+    #site-top-bar,
+    #masthead,
+    .entry-title,
+    #site-footer
+    {
+        display: none !important;
+    }
+
+    .login_header
+    {
+        display: block;
+    }
+
+    .st-content,
+    .st-container
+    {
+        height: 100%;
+    }
+
+    .content-area {
+        padding-top: 0 !important;
+    }
+
+    .st-content
+    {
+        overflow-y: auto;
+    }
+
+    .content-area {
+        padding-top: 220px !important;
+
+        @media only screen and (max-width: 768px) {
+            padding-top: 80px !important;
+        }
+    }
+
+
+    .login_header {
+    	border-top-width: 7px;
+        border-top-style: solid;
+    	position: absolute;
+    	width: 100%;
+    	top: 0;
+    	left: 0;
+    	z-index: 100;
+    	text-align: left;
+    	padding-left: 30px;
+
+    	.go_home {
+    		display: inline-block;
+    		outline: none;
+    		margin-top: 22px;
+    		font-weight: 700;
+    		position: relative;
+    		line-height: 1em;
+    		text-transform: uppercase;
+    	}
+    }
+
+    .woocommerce-form-login,
+    .woocommerce-form-register {
+        border: 0;
+        padding: 0;
+        margin: 0;
+
+        .button {
+            display: block;
+            width: 100%;
+        }
+    }
+
+    .woocommerce {
+        h2,
+        .woocommerce-form-login,
+        .woocommerce-form-register,
+        .lost_reset_password {
+            margin: 0 auto 2.5rem;
+            max-width: 360px;
+
+            @media only screen and (max-width: 639px) {
+                max-width: 100%;
+            }
+
+            .form-row,
+            .button {
+                width: 100%;
+            }
+        }
+    }
+
+    .col2-set .col-2 {
+        @media only screen and (max-width: 768px) {
+            margin-top: 20px;
+        }
+    }
+
+    .lost_reset_password {
+        .button {
+            margin-top: 10px;
+        }
+    }
+
+    .form-row + p,
+    .woocommerce-privacy-policy-text p {
+        font-size: 13px;
+    }
+
+    .woocommerce-form-login__rememberme {
+        margin-bottom: 18px;
+    }
+
+    .lost_password a {
+        display: block;
+        font-size: 13px;
+        font-weight: bold;
+        margin-top: 10px;
+    	text-transform: uppercase;
+        text-decoration: none;
+    }
+}

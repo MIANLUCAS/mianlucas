@@ -1,0 +1,63 @@
+/**1.0.5 - 2021.12.01**/
+- Fixed: Can't change order to preview on customizer
+- Fixed: Fixed responsive issue on Tablet and Mobile
+
+/**1.0.4.4 - 2021.01.05**/
+- Added: Compatibility with WooCommerce Email Template Customizer/Email Template Customizer for WooCommerce plugin from VillaTheme
+- Added: RTL support
+- Added: Compatible with WPML.org
+- Added: Compatible with Polylang
+- Updated: Not reload page if change order to preview on customizer
+
+/**1.0.4.3 - 2020.08.15**/
+– Updated: Class support
+- Added: enable coupon gift column on the My Account
+- Added: Compatibility with WP 5.5 and WC 4.3
+- Fixed: Display 'Order again'
+- Fixed: Check update request
+
+**1.0.4.2 - 2019.12.02**
+- Fixed: Limit coupon per day, week, month, year
+- Added: Include coupon info in order received email
+- Added: Include Bing map api
+
+**1.0.4.1 - 2019.11.18**
+- Fixed: Customize error jQuery with WP 5.3
+
+**1.0.4 - 2019.11.15**
+- Fixed: Coupon rules bug
+- Fixed: Order again element
+- Fixed: Customize error when content contains UTF-8 characters
+- Fixed: jQuery with WP 5.3
+
+**1.0.3 - 2019.02.23**
+- Fixed: Customize conflict with some themes
+- Fixed: Some social links not working
+- Fixed: Error including google api twice in customize mode
+- Updated: Use other hook to show content
+- Updated: Auto update key
+- Updated: Change google marker
+- Updated: Move google address to customize
+- Added: Products in shortcode can be slidable with some options
+- Added: Limit number of coupons for each customer per day/week/month/year
+- Added: Preview emails
+
+**1.0.2 - 2018.12.25**
+- Fixed: Text editor working with shortcodes
+- Fixed: Sort items
+- Added: Option to change scissors color
+
+**1.0.1.1 - 2018.12.13**
+- Fixed: Google map label in frontend
+- Fixed: SSL
+
+**1.0.1 - 2018.12.12**
+- Removed: Single product shortcodes customize
+- Added: Class support, update, check update
+- Added: Option to handle coupon code
+- Added: Product shortcode customize with more options
+- Added: Show coupon info in account settings/orders of customers
+- Updated: Move some google map options to customize
+
+**1.0.0 - 2018.12.03**
+- Released

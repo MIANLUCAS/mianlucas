@@ -1,0 +1,306 @@
+/******************
+    - General -
+******************/
+#fliptimer_general h2 {
+	font-size:23px;
+	font-weight:300;
+	color:#464646;
+	margin:0;
+	padding:26px 0 21px 2px;
+	display:block;
+}
+
+#fliptimer_general #theshortcode {
+    display:none;
+	clear:both;
+    width:100%;    
+    margin-bottom:20px;  
+}
+
+#fliptimer_general #theshortcode textarea {
+    width:823px;
+    height:180px;
+}
+
+#fliptimer_error {
+    width:100%;
+    background:#333;
+	color:#fff;
+    font-size:14px;
+    font-weight:bold;    
+    line-height:18px;
+}
+
+#fliptimer_general .separator {
+    border-bottom:1px solid #dfdfdf;
+	width:100%;
+    clear:both;
+    float:left;
+    margin-top:16px;
+    margin-bottom:16px;
+    height:1px;
+}
+
+/******************
+    - Postbox -
+******************/
+#fliptimer_general .unite-postbox {
+	width:400px;
+    float:left;
+	margin-right:20px;
+}
+
+#fliptimer_general .unite-postbox hr {
+	border:none;
+	border-top:1px solid #eee;
+}
+
+#fliptimer_general .unite-postbox h3 {
+	position:relative;
+	height:25px;
+	cursor:default !important;
+	padding:5px;
+	margin:0px;	
+	font-size:15px;
+}
+
+#fliptimer_general .unite-postbox h3 span {
+	display:block;
+	padding-top:5px;
+	padding-left:10px;
+	color:#000000;
+	float:left;
+	line-height:18px;
+}
+
+/****************
+    - Clear -
+****************/
+#fliptimer_general .field:after {
+	content:".";
+	visibility:hidden;
+	display:block;
+	clear:both;
+	height:0;
+	font-size:0;
+}
+
+/****************
+    - Field -
+****************/
+#fliptimer_general .block {
+	padding:10px;
+}
+
+#fliptimer_general .field {
+    clear:both;
+    padding:9px 7px;
+}
+
+#fliptimer_general .field.hidden {
+	display:none;
+}
+
+#fliptimer_general .field > label {
+	display:block;
+	position:relative;
+	float:left;
+	min-width:180px;
+    font-size:13px;    
+    cursor:default;
+	margin-top:6px;
+}
+
+#fliptimer_general .field span.unit {
+	display:block;
+	float:left;
+	padding-left:2px;
+	padding-top:6px;
+}
+
+#fliptimer_general .regular-text, #fliptimer_general 
+.medium-text, #fliptimer_general .small-text, 
+#fliptimer_general select {
+	float:left;
+    height:25px;
+	padding:4px;
+	font-size:12px;
+	background:#fff;
+	border:1px solid #c9c9c9;
+	color:#555;
+	border-radius:3px;
+	box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.05);
+	transition:border linear 0.3s, background-color 0.3s, box-shadow linear 0.3s;
+}
+
+#fliptimer_general .regular-text:focus, 
+#fliptimer_general .medium-text:focus, 
+#fliptimer_general .small-text:focus { 
+	border-color:#9c9c9c;
+	color:#333;
+	box-shadow:inset 0 1px 1px 0 rgba(0,0,0,0.1);
+}
+
+#fliptimer_general textarea.regular-text {
+	height:100px;
+}
+
+#fliptimer_general .regular-text, 
+#fliptimer_general select {
+	width:180px;
+}
+
+#fliptimer_general .medium-text {
+	width:120px;
+}
+
+#fliptimer_general .small-text {
+	width:60px;
+}
+
+/****************************
+    - Buttons with icon -
+****************************/
+#fliptimer_general .buttons {
+	clear:both;	
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	margin-right:3px;
+}
+
+#fliptimer_general .button-primary {
+	text-shadow:none !important; 
+	border:none !important; 
+	outline:none !important;
+	box-shadow:none !important;
+	margin:3px 3px 3px 0px !important;
+	padding:3px 15px 3px 10px;
+	font-size:14px;
+	color:#fff !important;
+	border-radius:3px !important;
+	transition:all 0.3s;
+}
+
+/* Green */
+#fliptimer_general .btn-green {
+	background:#27ae60 !important;		
+}
+
+#fliptimer_general .btn-green:hover {	
+	background:#2ecc71 !important;
+}
+
+/* Blue */
+#fliptimer_general .btn-blue {	
+	background:#3498db !important;
+}
+
+#fliptimer_general .btn-blue:hover {	
+	background:#2980b9 !important;
+}
+
+/* Yellow */
+#fliptimer_general .btn-yellow {	
+	background:#f1c40f !important;
+}
+
+#fliptimer_general .btn-yellow:hover {	
+	background:#f39c12 !important;
+}
+
+/********************************
+    - iPhone style checkbox -
+********************************/
+.iPhoneCheckContainer {
+	position:relative;
+	height:25px;
+	cursor:pointer;
+	overflow:hidden;
+	float:left;
+	margin-top:3px;
+	border-radius:3px;
+}
+
+.iPhoneCheckContainer input {
+	position:absolute;
+	top:5px;
+	left:30px;
+	opacity:0;
+}
+
+.iPhoneCheckContainer label {
+	position:absolute;
+	display:block;
+	top:0;
+	white-space:nowrap;
+	font-size:11px;
+	line-height:16px;
+	font-weight:bold;
+	font-family:Arial, Helvetica, sans-serif;
+	text-transform:uppercase;
+	cursor:pointer;	
+	height:20px;	
+	width:auto;	
+	padding:5px 0 0 0;
+	overflow:hidden;
+}
+
+.iPhoneCheckContainer, 
+.iPhoneCheckContainer label {
+	-moz-user-select:none;
+		 user-select:none;
+}
+
+.iPhoneCheckDisabled {
+	opacity:0.5;
+}
+
+label.iPhoneCheckLabelOn {
+	left:0;
+	padding-top:5px;
+	color:#fff;
+	background:#45a0fb;
+	border-radius:3px 0px 0px 3px;
+	box-shadow:0 0 1px 0 #006cd8 inset;
+}
+
+label.iPhoneCheckLabelOn span {
+	padding-left:8px;
+}
+
+label.iPhoneCheckLabelOff {
+	text-align:right;
+	right:0;
+	padding-top:5px;
+	color:#8b8b8b;	
+	background:#e2e2e2;
+	border-radius:0px 3px 3px 0px;
+	box-shadow:0 0 1px 0 #999 inset;
+}
+
+label.iPhoneCheckLabelOff span {
+	padding-right:11px;
+}
+
+.iPhoneCheckHandle {
+	position:absolute;
+	display:block;
+	cursor:pointer;
+	top:0;
+	left:0;
+	width:23px!important;
+	height:23px!important;
+	border:1px solid #999;
+	border-radius:3px;
+	background:#f6f6f6;
+}
+
+.iPhoneCheckHandleRight {
+	display:none;
+}
+
+.iPhoneCheckHandleCenter {
+	display:none;
+}
+

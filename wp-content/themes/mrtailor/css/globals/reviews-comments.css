@@ -1,0 +1,218 @@
+.woocommerce #reviews #comments ol.commentlist,
+.woocommerce-page #reviews #comments ol.commentlist {
+  margin: 0;
+  width: 100%;
+  background: none;
+  list-style: none; }
+
+.woocommerce #reviews #comments ol.commentlist li,
+.woocommerce-page #reviews #comments ol.commentlist li {
+  padding: 0;
+  margin: 40px 0;
+  border: 0;
+  position: relative;
+  background: 0;
+  border: 0; }
+
+.woocommerce #reviews #comments ol.commentlist li:first-child,
+.woocommerce-page #reviews #comments ol.commentlist li:first-child {
+  margin-top: 0; }
+
+.woocommerce #reviews #comments ol.commentlist li:last-child,
+.woocommerce-page #reviews #comments ol.commentlist li:last-child {
+  margin-bottom: 35px; }
+
+.woocommerce #reviews #comments ol.commentlist li img.avatar,
+.woocommerce-page #reviews #comments ol.commentlist li img.avatar {
+  background: none;
+  border: 0;
+  margin: 0;
+  line-height: 1;
+  position: absolute;
+  float: none;
+  left: 0;
+  top: -3px;
+  width: 50px;
+  height: 50px;
+  padding: 0;
+  overflow: hidden;
+  -webkit-border-radius: 50px;
+  -moz-border-radius: 50px;
+  border-radius: 50px; }
+
+.woocommerce #reviews #comments ol.commentlist li .comment-text,
+.woocommerce-page #reviews #comments ol.commentlist li .comment-text {
+  margin: 0 0 0 65px;
+  border: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  padding: 0; }
+
+.woocommerce #reviews #comments ol.commentlist li .comment-text .verified,
+.woocommerce-page #reviews #comments ol.commentlist li .comment-text .verified {
+  display: inline-block; }
+
+.woocommerce #reviews #comments ol.commentlist li .comment-text .description,
+.woocommerce-page #reviews #comments ol.commentlist li .comment-text .description {
+  margin: 15px 0 0 0; }
+
+.woocommerce #review_form #respond p.form-row-first,
+.woocommerce-page #review_form #respond p.form-row-last {
+  width: 100%; }
+
+/* Add a review */
+.woocommerce p.stars a,
+.woocommerce-page p.stars a {
+  margin-right: 0; }
+
+.woocommerce #review_form #respond p.stars,
+.woocommerce-page #review_form #respond p.stars {
+  font-size: 11px;
+  margin: 9px 0 17px; }
+
+.woocommerce #review_form #respond p.comment-form-rating,
+.woocommerce-page #review_form #respond p.comment-form-rating {
+  margin-top: 5px; }
+
+.woocommerce #review_form #respond p.comment-form-comment,
+.woocommerce-page #review_form #respond p.comment-form-comment {
+  margin-bottom: 18px; }
+
+.woocommerce #reviews #comment,
+.woocommerce-page #reviews #comment {
+  height: 198px; }
+
+#review_form #reply-title {
+  display: block;
+  margin-bottom: 20px; }
+
+@media only screen and (min-width: 40.063em) {
+  .woocommerce #review_form #respond p.form-row-first,
+  .woocommerce-page #review_form #respond p.form-row-last {
+    width: 48%; } }
+
+/**********************************************************************************/
+/* Comments ***********************************************************************/
+/**********************************************************************************/
+.comments-area {
+  margin: 30px 0 10px; }
+
+.comments-title {
+  font-size: 30px;
+  text-align: center; }
+
+.comments-area article {
+  padding: 30px 0;
+  margin: 0; }
+
+.comment-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 !important; }
+
+.comment-list ul.children {
+  list-style: none;
+  margin: 0 0 1em 0; }
+
+.comment-list li:last-child article {
+  padding-bottom: 40px; }
+
+.comment-content {
+  padding: 0 0 0 90px;
+  position: relative; }
+
+.comment-author-avatar {
+  position: absolute;
+  left: 0;
+  top: -5px;
+  width: 70px;
+  height: 70px;
+  overflow: hidden;
+  -webkit-border-radius: 70px;
+  -moz-border-radius: 70px;
+  border-radius: 70px; }
+
+.comment-author-avatar img {
+  width: 70px;
+  height: 70px; }
+
+.comment-author {
+  padding: 0;
+  margin: 0;
+  display: inline-block; }
+
+.comment-author a {
+  font-size: 18px; }
+
+.comment-metadata time {
+  font-size: 13px;
+  text-transform: uppercase; }
+
+.comment-text {
+  font-size: 14px;
+  margin: 15px 0 0 0; }
+
+.comment-reply,
+.comment-edit-link {
+  padding-right: 20px;
+  font-size: 14px; }
+  .comment-reply:before,
+  .comment-edit-link:before {
+    position: relative;
+    top: 4px;
+    margin-right: 5px; }
+
+.comment-awaiting-moderation {
+  font-style: italic;
+  color: #999;
+  font-size: 14px; }
+
+.comment-respond {
+  margin: 0px 0 30px 0; }
+
+#reply-title {
+  font-size: 30px;
+  padding: 0 0 5px 0;
+  margin: 0;
+  text-align: center; }
+
+.logged-in-as,
+.comment-notes {
+  text-align: center;
+  margin-bottom: 30px; }
+
+.comment-notes {
+  font-size: 14px;
+  font-style: italic; }
+
+textarea#comment {
+  height: 200px;
+  line-height: 1.8em; }
+
+.form-submit {
+  text-align: right; }
+
+@media only screen and (min-width: 40.063em) {
+  /**********************************************************************************/
+  /* Comments ***********************************************************************/
+  /**********************************************************************************/
+  .comments-area {
+    margin: 60px 0; }
+  .comments-title {
+    font-size: 30px;
+    text-align: left; }
+  .comment-content {
+    padding: 0 0 0 100px; }
+  .comment-author a {
+    font-size: 24px; }
+  .logged-in-as,
+  .comment-notes,
+  #reply-title {
+    text-align: left; }
+  .comment-respond {
+    margin: 30px 0 30px 0; }
+  .logged-in-as,
+  .comment-notes {
+    margin-bottom: 1.25rem; }
+  .comment-list li:last-child article {
+    padding-bottom: 30px; } }

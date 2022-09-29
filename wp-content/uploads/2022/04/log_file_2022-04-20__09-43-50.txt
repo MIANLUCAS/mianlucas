@@ -1,0 +1,55 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 50000
+Files info:
+Site URL = http://savoy.miguelangellucas.es
+Data file = /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/mrtailor/inc/demo/mrtailor-import.xml
+Widget file = /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/mrtailor/inc/demo/mrtailor-widgets.wie
+Customizer file = /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/mrtailor/inc/demo/mrtailor-options.dat
+Redux files:
+not defined!
+
+---ocdi/before_content_import---
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Suche - No Title - Imported
+Text - No Title - Imported
+Produktliste - Sales - Imported
+Liste mit kürzlich angesehenen Produkten - Recently Viewed Products - Imported
+Neueste Beiträge - Recent Posts - Imported
+Text - Add More Widgets - Imported
+
+Footer Widget Area : 
+
+Text - No Title - Imported
+
+Shop Sidebar : 
+
+Produkt-Kategorien - Product categories - Imported
+Produkte nach Preis filtern - Filter by price - Imported
+Liste mit kürzlich angesehenen Produkten - Recently Viewed Products - Imported
+Text - Add More Widgets - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

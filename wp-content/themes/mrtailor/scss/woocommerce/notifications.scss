@@ -1,0 +1,167 @@
+.woocommerce,
+.woocommerce-page {
+	.woocommerce-error,
+	.woocommerce-message,
+	.woocommerce-info {
+		background-repeat: no-repeat;
+		background-position: left 20px center;
+		background-size: 24px;
+		border-radius: 3px;
+		border: 0;
+		color: #ffffff;
+		text-shadow: none;
+		font-weight: bold;
+		padding: 20px 160px 20px 60px;
+		margin: 2em 0;
+		width: 100%;
+		list-style: none;
+		transition: all .3s ease;
+
+		&:before {
+			content: none;
+		}
+
+		@media only screen and (max-width: 768px) {
+			background-image: none !important;
+			font-size: 13px;
+			padding: 20px 125px 20px 20px;
+		}
+
+		&.no-button {
+			padding: 20px 20px 20px 60px;
+
+			@media only screen and (max-width: 768px) {
+				padding: 20px 20px 20px 20px;
+			}
+		}
+
+		a,
+		a.button,
+		button,
+		button.button {
+			background-color: transparent !important;
+			float: none;
+			color: #ffffff;
+			padding: 0 30px;
+			border-left: 2px dashed rgba(255,255,255,.5);
+			box-sizing: border-box;
+			border-radius: 0;
+			position: absolute;
+			height: 100%;
+			line-height: 1.6;
+			font-size: 13px;
+			font-weight: bold;
+			text-decoration: none;
+			text-transform: uppercase;
+			right: 0;
+			top: 0;
+			min-width: 100px;
+			max-width: 160px;
+			width: fit-content;
+			vertical-align: middle;
+			align-items: center;
+			display: flex;
+			text-align: center;
+			justify-content: center;
+			transition: all .15s linear;
+
+			@media only screen and (max-width: 768px) {
+				font-size: 12px!important;
+				padding: 0 15px;
+				max-width: 100px;
+			}
+
+			&:hover,
+			&:focus {
+				background-color: rgba(255,255,255,.15) !important;
+			}
+		}
+
+		form {
+			padding-right: 30px;
+			.form-row {
+				width: 100%;
+				text-align: left;
+
+				input {
+					color: #fff;
+				}
+
+				input.button {
+					float: left;
+				}
+			}
+		}
+
+		&:before {
+			position: absolute;
+		    left: 23px;
+		    top: calc( 50% - 14px );
+			width: 24px;
+			height: 24px;
+		}
+	}
+
+	.woocommerce-message {
+		background-color: #8fae1b;
+		@include gbt_icon( 'background-image', $success-icon, '24', 'rgb(255,255,255)' );
+
+		a {
+			text-transform: uppercase;
+			font-size: 13px;
+			font-weight: 700;
+			color: #ffffff;
+			transition: opacity 0.3s;
+		}
+	}
+
+	.woocommerce-info {
+		background-color: #000;
+		@include gbt_icon( 'background-image', $info-icon, '24', 'rgb(255,255,255)' );
+		border-top: 0;
+	}
+
+	.woocommerce-error {
+		background-color: #b81c23;
+		@include gbt_icon( 'background-image', $error-icon, '24', 'rgb(255,255,255)' );
+		text-align: left;
+	}
+}
+
+.rtl.woocommerce,
+.rtl.woocommerce-page {
+	.woocommerce-error,
+	.woocommerce-message,
+	.woocommerce-info {
+		background-position: right 20px center;
+		padding: 20px 60px 20px 160px;
+
+		@media only screen and (max-width: 768px) {
+			padding: 20px 20px 20px 125px;
+		}
+
+		&.no-button {
+			padding: 20px 60px 20px 20px;
+		}
+
+		a,
+		a.button,
+		button,
+		button.button {
+			border-right: 2px dashed rgba(255,255,255,.5);
+			border-left: 0;
+			right: auto;
+			left: 0;
+		}
+
+		form {
+			padding-left: 30px;
+			padding-right: 0;
+		}
+
+		&:before {
+		    right: 23px;
+			left: auto;
+		}
+	}
+}

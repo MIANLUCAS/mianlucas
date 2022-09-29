@@ -1,0 +1,191 @@
+.woocommerce table.order_details {
+	border: 0;
+
+	thead {
+		th {
+			font-size: 13px;
+			padding: 15px 15px 15px 0;
+
+			&:first-child {
+				width: 50%;
+			}
+
+			&:last-child {
+			    padding: 15px 0;
+			}
+		}
+	}
+
+	tbody {
+		td {
+			padding: 15px 15px 15px 0;
+
+			&:first-child,
+			&.product-name {
+				font-weight: bold;
+				width: 50%;
+			}
+
+			&:last-child {
+				padding: 15px 0;
+			}
+
+			&.download-file {
+				min-width: 160px;
+			}
+
+			a {
+				text-decoration: none;
+			}
+		}
+	}
+
+	tfoot {
+		tr{
+			&:first-child {
+				th, td {
+					border-top-width: 3px;
+				}
+			}
+
+			&:last-child {
+				td {
+					font-weight: normal;
+				}
+			}
+
+			th {
+				font-size: 13px;
+				padding: 15px 15px 15px 0;
+				text-transform: uppercase;
+				width: 70%;
+			}
+
+			td {
+				padding: 15px 0;
+				width: 30%;
+			}
+		}
+	}
+}
+
+.woocommerce table.order_details.woocommerce-table--order-downloads {
+	@media only screen and (max-width: 768px) {
+		tr {
+			margin: 0;
+
+			td {
+				background: transparent;
+				width: 100%;
+
+				&:before {
+					font-size: 13px;
+					font-weight: bold;
+					text-transform: uppercase;
+				}
+			}
+		}
+	}
+}
+
+.woocommerce .woocommerce-customer-details {
+	.addresses {
+		.col-2 {
+			@media only screen and (min-width: 769px) {
+				margin-left: 20px;
+			}
+
+			@media only screen and (max-width: 768px) {
+				margin-top: 40px;
+			}
+		}
+	}
+
+	address {
+		border: 0;
+		padding: 0;
+	}
+}
+
+.woocommerce-checkout {
+
+	.woocommerce-thankyou-order-received {
+	    text-align: center;
+		background-position: center bottom;
+		background-size: 16px auto;
+		background-repeat: repeat-x;
+	    height: 70px;
+	}
+
+	ul.order_details.woocommerce-thankyou-order-details {
+	    display: flex;
+	    padding: 20px 0;
+	    justify-content: center;
+	    margin: 0 0 50px 0;
+		background-position: center bottom;
+		background-repeat: repeat-x;
+		background-size: 16px auto;
+
+		li {
+			font-size: 13px;
+			margin: 0 40px 20px 0;
+		    border-right: none;
+		    padding: 0;
+		    font-weight: 700;
+		    text-align: left;
+		    display: inline;
+
+			strong {
+			    font-size: 13px;
+			    margin-top: 5px;
+			}
+		}
+
+		+ p {
+			margin-bottom: 50px;
+		}
+
+		@media only screen and (max-width: 1023px) {
+			display: block;
+		    padding: 10px 0 20px 0;
+
+			li {
+				display: block;
+				margin: 0 0 10px 0;
+				width: 100%;
+
+				strong {
+					display: inline;
+				}
+			}
+		}
+	}
+}
+
+.woocommerce-account .woocommerce-MyAccount-content > p {
+	mark {
+		background: transparent;
+		font-weight: bold;
+		padding: 0;
+		margin: 0;
+	}
+}
+
+.rtl table.shop_table,
+.rtl.woocommerce-account table.account-orders-table {
+	th, td {
+		text-align: right;
+	}
+
+	thead th {
+		padding: 15px 0 15px 15px;
+	}
+
+	tbody td {
+		padding: 15px 0 15px 15px;
+	}
+
+	tfoot tr th {
+		padding: 15px 0 15px 15px;
+	}
+}

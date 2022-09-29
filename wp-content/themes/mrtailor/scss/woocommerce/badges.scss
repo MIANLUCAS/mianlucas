@@ -1,0 +1,54 @@
+span.onsale,
+.woocommerce ul.products li.product .onsale,
+.woocommerce span.onsale,
+.woocommerce .product.outofstock p.stock.out-of-stock,
+p.out-of-stock,
+.woocommerce p.out-of-stock,
+p.stock.available-on-backorder,
+.woocommerce div.product p.stock.available-on-backorder,
+.wc-block-grid ul.wc-block-grid__products li.wc-block-grid__product .wc-block-grid__product-onsale {
+    background-repeat: no-repeat;
+    background-position: left 8px center;
+    border: 0;
+    border-radius: 3px;
+    display: block;
+    font-size: 13px !important;
+    font-weight: bold;
+    line-height: 1.4;
+    min-height: 10px;
+    left: 0;
+    right: auto;
+    margin: 8px 0 0 0;
+    position: relative;
+    width: fit-content;
+    text-transform: inherit;
+}
+
+p.stock.out-of-stock,
+p.stock.available-on-backorder,
+.woocommerce .product.outofstock p.stock.out-of-stock,
+.woocommerce div.product p.stock.available-on-backorder {
+    margin: 0 0 40px 0;
+}
+
+span.onsale,
+.woocommerce .product .product_infos span.onsale {
+    margin: 7px 0;
+}
+
+span.onsale,
+.wc-block-grid ul.wc-block-grid__products li.wc-block-grid__product .wc-block-grid__product-onsale,
+.woocommerce ul.products li.product .onsale,
+.woocommerce span.onsale {
+    padding: 6px 10px 5px 37px;
+}
+
+.woocommerce .product.outofstock p.stock.out-of-stock,
+.woocommerce p.out-of-stock,
+p.out-of-stock {
+    padding: 6px 10px 5px 33px;
+}
+
+.woocommerce div.product p.stock.available-on-backorder {
+    padding: 6px 10px 5px 10px;
+}

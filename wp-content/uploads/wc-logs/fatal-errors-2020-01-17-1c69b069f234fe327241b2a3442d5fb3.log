@@ -1,0 +1,215 @@
+2020-01-17T09:33:36+00:00 CRITICAL Cannot redeclare add_privacy_checkbox() (previously declared in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:165) in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 194
+
+2020-01-17T09:33:51+00:00 CRITICAL Cannot redeclare add_privacy_checkbox() (previously declared in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:165) in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 194
+
+2020-01-17T09:34:21+00:00 CRITICAL Cannot redeclare add_privacy_checkbox() (previously declared in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:165) in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 194
+
+2020-01-17T09:35:09+00:00 CRITICAL Cannot redeclare privacy_checkbox_error_message() (previously declared in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:176) in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 200
+
+2020-01-17T09:35:50+00:00 CRITICAL Cannot redeclare privacy_checkbox_error_message() (previously declared in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:176) in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 200
+
+2020-01-17T09:37:18+00:00 CRITICAL Cannot redeclare privacy_checkbox_error_message() (previously declared in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:176) in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 200
+
+2020-01-17T09:52:44+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:207
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-settings.php(497): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-config.php(81): require_once('/homepages/36/d...')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-load.php(37): require_once('/homepages/36/d...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-blog-header.php(13): require_once('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/index.php(17): require('/homepages/36/d...')
+#5 {main}
+  thrown in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 207
+
+2020-01-17T09:53:15+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:207
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-settings.php(497): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-config.php(81): require_once('/homepages/36/d...')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-load.php(37): require_once('/homepages/36/d...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-admin/admin-ajax.php(22): require_once('/homepages/36/d...')
+#4 {main}
+  thrown in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 207
+
+2020-01-17T10:08:59+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 210
+
+2020-01-17T10:09:40+00:00 CRITICAL syntax error, unexpected '<' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 255
+
+2020-01-17T10:10:02+00:00 CRITICAL syntax error, unexpected '<' in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 255
+
+2020-01-17T10:11:08+00:00 CRITICAL Uncaught Error: Call to a member function has_attributes() on bool in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:214
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-settings.php(497): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-config.php(81): require_once('/homepages/36/d...')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-load.php(37): require_once('/homepages/36/d...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-blog-header.php(13): require_once('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/index.php(17): require('/homepages/36/d...')
+#5 {main}
+  thrown in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 214
+
+2020-01-17T10:28:20+00:00 CRITICAL Uncaught Error: Call to a member function get_variation() on string in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:229
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): isa_woo_cart_attributes('Door Bumper - G...', Array)
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('Door Bumper - G...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/checkout/review-order.php(47): apply_filters('woocommerce_car...', 'Door Bumper - G...', Array, 'dec56a1b0f3e023...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-temp in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 229
+
+2020-01-17T10:29:26+00:00 CRITICAL Uncaught Error: Call to a member function get_variation() on string in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:229
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): isa_woo_cart_attributes('Door Bumper - G...', Array)
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('Door Bumper - G...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/checkout/review-order.php(47): apply_filters('woocommerce_car...', 'Door Bumper - G...', Array, 'dec56a1b0f3e023...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-temp in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 229
+
+2020-01-17T10:30:21+00:00 CRITICAL Uncaught Error: Call to a member function get_variation() on string in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:229
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): isa_woo_cart_attributes('Door Bumper - G...', Array)
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('Door Bumper - G...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/mini-cart.php(58): apply_filters('woocommerce_car...', 'Door Bumper - G...', Array, 'dec56a1b0f3e023...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-template-fu in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 229
+
+2020-01-17T10:31:27+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function isa_woo_cart_attributes(), 1 passed in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:214
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): isa_woo_cart_attributes('Lighthouse Lant...')
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('Lighthouse Lant...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/mini-cart.php(58): apply_filters('woocommerce_car...', 'Lighthouse Lant...', Array, '19f3cd308f1455b...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 214
+
+2020-01-17T10:31:33+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function isa_woo_cart_attributes(), 1 passed in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:214
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): isa_woo_cart_attributes('Lighthouse Lant...')
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('Lighthouse Lant...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/mini-cart.php(58): apply_filters('woocommerce_car...', 'Lighthouse Lant...', Array, '19f3cd308f1455b...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 214
+
+2020-01-17T10:31:36+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function isa_woo_cart_attributes(), 1 passed in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php on line 290 and exactly 2 expected in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:214
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): isa_woo_cart_attributes('Lighthouse Lant...')
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('Lighthouse Lant...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/mini-cart.php(58): apply_filters('woocommerce_car...', 'Lighthouse Lant...', Array, '19f3cd308f1455b...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 214
+
+2020-01-17T10:32:00+00:00 CRITICAL Uncaught Error: Call to a member function get_variation() on string in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:229
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): isa_woo_cart_attributes('Door Bumper - G...', Array)
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('Door Bumper - G...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/mini-cart.php(58): apply_filters('woocommerce_car...', 'Door Bumper - G...', Array, 'dec56a1b0f3e023...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-template-fu in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 229
+
+2020-01-17T10:32:36+00:00 CRITICAL Uncaught Error: Call to a member function get_variation() on string in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:229
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): isa_woo_cart_attributes('Door Bumper - G...', Array)
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('Door Bumper - G...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/mini-cart.php(58): apply_filters('woocommerce_car...', 'Door Bumper - G...', Array, 'dec56a1b0f3e023...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-template-fu in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 229
+
+2020-01-17T10:34:02+00:00 CRITICAL Uncaught Error: Call to a member function get_variation() on string in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:229
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): isa_woo_cart_attributes('<a href="http:/...', Array)
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('<a href="http:/...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php(67): apply_filters('woocommerce_car...', '<a href="http:/...', Array, 'dec56a1b0f3e023...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/shortcodes/class-wc in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 229
+
+2020-01-17T10:35:37+00:00 CRITICAL Uncaught Error: Call to a member function get_variation() on string in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:229
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): isa_woo_cart_attributes('Door Bumper - G...', Array)
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('Door Bumper - G...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/checkout/review-order.php(47): apply_filters('woocommerce_car...', 'Door Bumper - G...', Array, 'dec56a1b0f3e023...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-temp in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 229
+
+2020-01-17T10:36:25+00:00 CRITICAL Uncaught Error: Call to a member function get_variation() on string in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:229
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): isa_woo_cart_attributes('Door Bumper - G...', Array)
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('Door Bumper - G...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/checkout/review-order.php(47): apply_filters('woocommerce_car...', 'Door Bumper - G...', Array, 'dec56a1b0f3e023...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-temp in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 229
+
+2020-01-17T10:36:28+00:00 CRITICAL Uncaught Error: Call to a member function get_variation() on string in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:229
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): isa_woo_cart_attributes('Door Bumper - G...', Array)
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('Door Bumper - G...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/checkout/review-order.php(47): apply_filters('woocommerce_car...', 'Door Bumper - G...', Array, 'dec56a1b0f3e023...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-temp in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 229
+
+2020-01-17T10:40:40+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:213
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-settings.php(497): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-config.php(81): require_once('/homepages/36/d...')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-load.php(37): require_once('/homepages/36/d...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-blog-header.php(13): require_once('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/index.php(17): require('/homepages/36/d...')
+#5 {main}
+  thrown in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 213
+
+2020-01-17T10:42:09+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:213
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-settings.php(497): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-config.php(81): require_once('/homepages/36/d...')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-load.php(37): require_once('/homepages/36/d...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-admin/admin-ajax.php(22): require_once('/homepages/36/d...')
+#4 {main}
+  thrown in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 213
+
+2020-01-17T10:43:41+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:213
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-settings.php(497): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-config.php(81): require_once('/homepages/36/d...')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-load.php(37): require_once('/homepages/36/d...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-admin/admin-ajax.php(22): require_once('/homepages/36/d...')
+#4 {main}
+  thrown in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 213
+
+2020-01-17T10:43:44+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:213
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-settings.php(497): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-config.php(81): require_once('/homepages/36/d...')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-load.php(37): require_once('/homepages/36/d...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-blog-header.php(13): require_once('/homepages/36/d...')
+#4 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/index.php(17): require('/homepages/36/d...')
+#5 {main}
+  thrown in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 213
+
+2020-01-17T10:44:09+00:00 CRITICAL Uncaught Error: Call to a member function get_attributes() on null in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:213
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-settings.php(497): include()
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-config.php(81): require_once('/homepages/36/d...')
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-load.php(37): require_once('/homepages/36/d...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-admin/admin-ajax.php(22): require_once('/homepages/36/d...')
+#4 {main}
+  thrown in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 213
+
+2020-01-17T10:58:45+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function showing_sku_in_cart_items(), 1 passed in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php on line 290 and exactly 3 expected in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:212
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): showing_sku_in_cart_items('<a href="http:/...')
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('<a href="http:/...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php(67): apply_filters('woocommerce_car...', '<a href="http:/...', Array, '19f3cd308f1455b...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249):  in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 212
+
+2020-01-17T10:59:08+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function showing_sku_in_cart_items(), 1 passed in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php on line 290 and exactly 3 expected in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:212
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): showing_sku_in_cart_items('<a href="http:/...')
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('<a href="http:/...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php(67): apply_filters('woocommerce_car...', '<a href="http:/...', Array, '19f3cd308f1455b...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249):  in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 212
+
+2020-01-17T10:59:22+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function showing_sku_in_cart_items(), 2 passed in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php on line 290 and exactly 3 expected in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:212
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): showing_sku_in_cart_items('<a href="http:/...', Array)
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('<a href="http:/...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php(67): apply_filters('woocommerce_car...', '<a href="http:/...', Array, '19f3cd308f1455b...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 212
+
+2020-01-17T10:59:34+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function showing_sku_in_cart_items(), 2 passed in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php on line 290 and exactly 3 expected in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php:212
+Stack trace:
+#0 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/class-wp-hook.php(290): showing_sku_in_cart_items('<a href="http:/...', Array)
+#1 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-includes/plugin.php(206): WP_Hook->apply_filters('<a href="http:/...', Array)
+#2 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy/woocommerce/cart/cart.php(67): apply_filters('woocommerce_car...', '<a href="http:/...', Array, '19f3cd308f1455b...')
+#3 /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/plugins/woocommerce/includes/wc-core-functions.php in /homepages/36/d539495599/htdocs/wordpress/savoy.miguelangellucas.es/wp-content/themes/savoy-child/functions.php in Zeile 212
+

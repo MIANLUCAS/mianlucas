@@ -1,0 +1,674 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Memory\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-04-13 10:15+0100\n"
+"PO-Revision-Date: 2022-04-13 11:29+0100\n"
+"Last-Translator: \n"
+"Language-Team: WP Memory Team\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpmemory.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: dashboard/dashboard.php:14
+msgid ""
+"This plugin check For High Memory Usage and include the result in the Tools "
+"=> Site Health Page."
+msgstr ""
+"Questo plugin controlla l'uso di memoria e include il risultato nella pagina "
+"Strumenti => Salute del sito."
+
+#: dashboard/dashboard.php:15
+msgid ""
+"This plugin also Check Memory status and allows you to increase the Php "
+"Memory Limit and WordPress Memory Limit without editing any file."
+msgstr ""
+"Questo plugin controlla anche lo stato della memoria e permette di aumentare "
+"il Php Memory Limit e WordPress Memory Limit senza modificare alcun file."
+
+#: dashboard/dashboard.php:20 functions/functions.php:42
+#: functions/functions.php:52
+msgid "Memory Usage"
+msgstr "Uso della memoria"
+
+#: dashboard/dashboard.php:62
+msgid "Your usage now"
+msgstr "Il tuo utilizzo ora"
+
+#: dashboard/dashboard.php:66
+msgid "Total Php Server Memory"
+msgstr "Memoria totale del server Php"
+
+#: dashboard/dashboard.php:72
+msgid "The PHP memory limit needs be bigger than WordPress Memory Limit."
+msgstr ""
+"Il limite di memoria di PHP (PHP memory limit ) deve essere più grande del "
+"limite di memoria di WordPress (WordPress Memory Limit.)"
+
+#: dashboard/dashboard.php:75
+msgid "Instructions to increase WordPress Memory Limit:"
+msgstr "Istruzioni per aumentare il limite di memoria di WordPress:"
+
+#: dashboard/dashboard.php:77
+msgid "Click Here to Tips"
+msgstr "Clicca qui per i suggerimenti"
+
+#: dashboard/dashboard.php:81
+msgid ""
+"The Total Php Server Memory is the PHP \"Memory Limit\" usually defined on "
+"your php.ini file."
+msgstr ""
+"La memoria totale del server Php (Php Server Memory) è il \"limite di memoria"
+"\" di PHP di solito definito nel tuo file php.ini."
+
+#: dashboard/dashboard.php:83 dashboard/memory-fix-php.php:69
+#: dashboard/wizard/wizard.php:178
+msgid "Click Here to learn more"
+msgstr "Clicca qui per saperne di più"
+
+#: dashboard/dashboard.php:91
+msgid "How to Tell if Your Site Needs a Shot of more Memory"
+msgstr "Come dire se il tuo sito ha bisogno di una dose di memoria in più"
+
+#: dashboard/dashboard.php:109
+msgid "If you got"
+msgstr "Se hai"
+
+#: dashboard/dashboard.php:113
+msgid "Fatal error: Allowed memory size of xxx bytes exhausted"
+msgstr "Errore fatale: Dimensione di memoria consentita di xxx byte esaurita"
+
+#: dashboard/dashboard.php:116
+msgid "or"
+msgstr "o"
+
+#: dashboard/dashboard.php:119
+msgid ""
+"if your site is behaving slowly, or pages fail to load, you get random white "
+"screens of death or 500 internal server error you may need more memory. "
+"Several things consume memory, such as WordPress itself, the plugins "
+"installed, the theme you're using and the site content."
+msgstr ""
+"se il tuo sito si comporta lentamente, o le pagine non si caricano, si "
+"ottengono schermate bianche o 500 errori interni del server, potresti aver "
+"bisogno di più memoria. Diverse cose consumano memoria, come WordPress "
+"stesso, i plugin installati, il tema che stai usando e il contenuto del sito."
+
+#: dashboard/dashboard.php:122
+msgid ""
+"Basically, the more content and features you add to your site, the bigger "
+"your memory limit has to be. if you're only running a small site with basic "
+"functions without a Page Builder and Theme Options (for example the native "
+"Twenty twenty) maybe you don’t need make memory adjustments. However, once "
+"you use a Premium WordPress theme and you start encountering unexpected "
+"issues, it may be time to adjust your memory limit to meet the standards for "
+"a modern WordPress installation."
+msgstr ""
+"Fondamentalmente, più contenuti e funzioni si aggiungono al tuo sito, più "
+"grande deve essere il tuo limite di memoria. Se stai solo eseguendo un "
+"piccolo sito con funzioni di base senza un Page Builder e Theme Options (per "
+"esempio il nativo Twenty twenty) forse non hai bisogno di fare regolazioni "
+"di memoria. Tuttavia, una volta che si utilizza un tema Premium WordPress e "
+"si iniziano a incontrare problemi inaspettati, potrebbe essere il momento di "
+"regolare il limite di memoria per soddisfare gli standard di una moderna "
+"installazione di WordPress."
+
+#: dashboard/dashboard.php:125
+msgid ""
+"Increase the WP Memory Limit is a standard practice in WordPress and you "
+"find instructions also in the official WordPress documentation (Increasing "
+"memory allocated to PHP)."
+msgstr ""
+"Aumentare il limite di memoria di WP è una pratica standard in WordPress e "
+"si trovano istruzioni anche nella documentazione ufficiale di WordPress "
+"(Aumentare la memoria assegnata a PHP)."
+
+#: dashboard/dashboard_container.php:139
+msgid "PB"
+msgstr "PB"
+
+#: dashboard/dashboard_container.php:141
+msgid "TB"
+msgstr "TB"
+
+#: dashboard/dashboard_container.php:143
+msgid "GB"
+msgstr "GB"
+
+#: dashboard/dashboard_container.php:145
+msgid "MB"
+msgstr "MB"
+
+#: dashboard/dashboard_container.php:147
+msgid "KB"
+msgstr "KB"
+
+#: dashboard/dashboard_container.php:149
+msgid "Unknown"
+msgstr "Sconosciuto"
+
+#: dashboard/fixconfig/wizard.php:16 dashboard/memory-fix.php:16
+#: dashboard/wizard/wizard.php:247
+msgid ""
+"WordPress Memory Limit is the maximum amount of memory that can be consumed "
+"by PHP."
+msgstr ""
+"WordPress Memory Limit è la quantità massima di memoria che può essere "
+"consumata da PHP."
+
+#: dashboard/fixconfig/wizard.php:18 dashboard/memory-fix.php:18
+#: dashboard/wizard/wizard.php:249
+msgid ""
+"WP_MEMORY_LIMIT option allows you to specify that in your wp-config.php file "
+"on your root folder."
+msgstr ""
+"L'opzione WP_MEMORY_LIMIT ti permette di specificarlo nel tuo file wp-config."
+"php nella tua cartella principale."
+
+#: dashboard/fixconfig/wizard.php:22 dashboard/memory-fix.php:22
+#: dashboard/wizard/wizard.php:253
+msgid "Total Current WordPress Memory Limit:"
+msgstr "Limite di memoria WordPress corrente totale:"
+
+#: dashboard/fixconfig/wizard.php:27 dashboard/memory-fix.php:27
+#: dashboard/wizard/wizard.php:258
+msgid "Click Here to Learn More"
+msgstr "Clicca qui per saperne di più"
+
+#: dashboard/fixconfig/wizard.php:31 dashboard/memory-fix.php:31
+msgid "This Amount need be minor than PHP Memory Limit."
+msgstr ""
+"Questa quantità deve essere minore del limite di memoria di PHP (PHP Memory "
+"Limit.)."
+
+#: dashboard/fixconfig/wizard.php:33 dashboard/memory-fix.php:33
+#: dashboard/wizard/wizard.php:264
+msgid "We can update it for you. Just select below and click FIX IT NOW."
+msgstr ""
+"Possiamo aggiornarlo per te. Basta selezionare qui sotto e cliccare su FIX "
+"IT NOW."
+
+#: dashboard/fixconfig/wizard.php:35 dashboard/memory-fix.php:35
+#: dashboard/wizard/wizard.php:266
+msgid "(We will make one backup and update the file wp-config.php)"
+msgstr "(Faremo un backup e aggiorneremo nel file wp-config.php)"
+
+#: dashboard/fixconfig/wizard.php:39 dashboard/memory-fix.php:39
+#: dashboard/wizard/wizard.php:270
+msgid "Free Version max memory upgrade is 128M"
+msgstr "L'aggiornamento massimo di memoria della versione gratuita è di 128M"
+
+#: dashboard/fixconfig/wizard.php:41 dashboard/memory-fix.php:41
+#: dashboard/wizard/wizard.php:272
+msgid ""
+"Go Premium and you can setup up the limit up to 1024M. Just click the "
+"premium Tab above."
+msgstr ""
+"Vai Premium e puoi impostare il limite fino a 1024M. Basta cliccare sulla "
+"scheda premium qui sopra."
+
+#: dashboard/fixconfig/wizard.php:49 dashboard/memory-fix.php:49
+#: dashboard/wizard/wizard.php:297
+msgid "Update the WordPress Memory Limit to"
+msgstr "Aggiornare il limite di memoria di WordPress a"
+
+#: dashboard/fixconfig/wizard.php:66 dashboard/memory-fix.php:66
+#: dashboard/wizard/wizard.php:314
+msgid ""
+"Next window, before proceed, copy the link location to restore your wp-"
+"config.php"
+msgstr ""
+"Nella finestra successiva, prima di procedere, copiate il  link per "
+"ripristinare il vostro wp-config.php"
+
+#: dashboard/fixconfig/wizard.php:68 dashboard/memory-fix.php:68
+#: dashboard/wizard/wizard.php:316
+msgid ""
+"Some hosting company, to \"protect you\", can damage the file wp-config.php"
+msgstr ""
+"Alcune società di hosting, per \"proteggerti\", possono danneggiare il file "
+"wp-config.php"
+
+#: dashboard/fixconfig/wizard.php:94 dashboard/memory-fix.php:94
+#: dashboard/wizard/wizard.php:349
+msgid ""
+"If your server allow us, we can try to fix your file wp-config.php to "
+"release more memory."
+msgstr ""
+"Se il tuo server ce lo permette, possiamo provare a sistemare il tuo file wp-"
+"config.php per rilasciare più memoria."
+
+#: dashboard/fixconfig/wizard.php:97 dashboard/memory-fix.php:97
+#: dashboard/wizard/wizard.php:352
+msgid "Please, copy the url blue below to safe place before to proceed."
+msgstr ""
+"Per favore, copiate l'url blu qui sotto in un posto sicuro prima di "
+"procedere."
+
+#: dashboard/fixconfig/wizard.php:100 dashboard/memory-fix.php:100
+#: dashboard/wizard/wizard.php:355
+msgid ""
+"Use the url only to undo this operation if you've problem accessing your "
+"site after the update."
+msgstr ""
+"Usa l'url solo per annullare questa operazione se hai problemi di accesso al "
+"tuo sito dopo l'aggiornamento."
+
+#: dashboard/fixconfig/wizard.php:103 dashboard/memory-fix.php:103
+#: dashboard/wizard/wizard.php:358
+msgid "After Copy the URL, click UPDATE to proceed or Cancel to abort."
+msgstr ""
+"Dopo aver copiato l'URL, clicca su UPDATE per procedere o Cancel per "
+"interrompere."
+
+#: dashboard/fixconfig/wizard.php:113 dashboard/memory-fix.php:113
+#: dashboard/wizard/wizard.php:368
+msgid "Update"
+msgstr "Aggiorna"
+
+#: dashboard/fixconfig/wizard.php:114 dashboard/memory-fix.php:114
+#: dashboard/wizard/wizard.php:369
+msgid "Cancel"
+msgstr "Annulla"
+
+#: dashboard/hardware.php:13
+msgid ""
+"Please, talk with your hosting company and request to them enable shell_exec "
+"function."
+msgstr ""
+"Per favore, parlate con la vostra società di hosting e chiedete di abilitare "
+"la funzione shell_exec."
+
+#: dashboard/hardware.php:26 dashboard/wizard/wizard.php:55
+msgid ""
+"Unable to find your total RAM memory. Please, ask to your hosting company."
+msgstr ""
+"Impossibile trovare la tua memoria RAM totale. Per favore, chiedete alla "
+"vostra società di hosting."
+
+#: dashboard/hardware.php:35
+msgid "Total of Server RAM"
+msgstr "Totale della RAM del server"
+
+#: dashboard/hardware.php:38
+msgid ""
+"The Server RAM (Random Access Memory) is a \n"
+"physical memory, which usually takes the form of cards (DIMMs) attached onto "
+"the motherboard.\n"
+"Talk with your hosting company if you need to increase that."
+msgstr ""
+"La RAM (Random Access Memory) del server è una\n"
+"memoria fisica, che di solito prende la forma di schede (DIMM) attaccate "
+"alla scheda madre.\n"
+"Parla con la tua compagnia di hosting se hai bisogno di aumentarla."
+
+#: dashboard/hardware.php:42 dashboard/wizard/wizard.php:76
+msgid "Total Current RAM Memory:"
+msgstr "Memoria RAM corrente totale:"
+
+#: dashboard/memory-fix-php.php:36 dashboard/wizard/wizard.php:110
+msgid "Your server doesn't have a PHP function ini_set."
+msgstr "Il tuo server non ha una funzione PHP ini_set."
+
+#: dashboard/memory-fix-php.php:38 dashboard/wizard/wizard.php:112
+msgid "Please, talk with your hosting company."
+msgstr "Per favore, parlate con la vostra società di hosting."
+
+#: dashboard/memory-fix-php.php:47 dashboard/wizard/wizard.php:143
+msgid ""
+"The PHP Memory Limit is the Total Php Server Memory and is usually defined "
+"on your php.ini file."
+msgstr ""
+"Il limite di memoria PHP è la memoria totale del server Php e di solito è "
+"definito nel tuo file php.ini."
+
+#: dashboard/memory-fix-php.php:52 dashboard/wizard/wizard.php:152
+msgid "Total Current PHP Memory Limit:"
+msgstr "Limite di memoria PHP corrente totale:"
+
+#: dashboard/memory-fix-php.php:56
+msgid ""
+"The PHP memory limit needs be bigger than WordPress Memory Limit and not "
+"bigger than your Hardware Memory."
+msgstr ""
+"Il limite di memoria PHP (PHP Memory Limit)  deve essere più grande del "
+"limite di memoria di WordPress (WordPress Memory Limit) e non più grande "
+"della vostra memoria di hardware."
+
+#: dashboard/memory-fix-php.php:61 dashboard/wizard/wizard.php:162
+msgid ""
+"This sets the maximum amount of memory in bytes that a script is allowed to "
+"allocate. This helps prevent poorly written scripts or any temporary fail "
+"for eating up all available memory on a server..."
+msgstr ""
+"Questo imposta la quantità massima di memoria in byte che uno script è "
+"autorizzato ad allocare. Questo aiuta a prevenire gli script scritti male o "
+"i fallimenti temporanei  consumare tutta la memoria disponibile su un "
+"server..."
+
+#: dashboard/memory-fix-php.php:64 dashboard/wizard/wizard.php:167
+msgid "We suggest 512 Mb."
+msgstr "Suggeriamo 512 Mb."
+
+#: dashboard/memory-fix-php.php:76 dashboard/wizard/wizard.php:185
+msgid ""
+"We can update it without touch your php.ini file. Just choose the amount "
+"below and click UPDATE."
+msgstr ""
+"Possiamo aggiornarlo senza toccare il tuo file php.ini. Basta scegliere la "
+"quantità qui sotto e cliccare su UPDATE."
+
+#: dashboard/memory-fix-php.php:83 dashboard/wizard/wizard.php:192
+msgid "Update the PHP memory limit to"
+msgstr "Aggiornare il limite di memoria di PHP a"
+
+#: dashboard/mybanners.php:138
+msgid "Go Premium and remove all plugin restrictions"
+msgstr "Vai  a Premium e rimuovi tutte le restrizioni del plugin"
+
+#: dashboard/mybanners.php:139
+msgid "Take Your Site to the Next Level"
+msgstr "Porta il tuo sito al livello successivo"
+
+#: dashboard/mybanners.php:140
+msgid "Dedicated Premium Support"
+msgstr "Supporto Premium dedicato"
+
+#: dashboard/mybanners.php:141
+msgid "More..."
+msgstr "Altro..."
+
+#: dashboard/mybanners.php:143
+msgid "Learn More"
+msgstr "Per saperne di più"
+
+#: dashboard/mybanners.php:157
+msgid "Like This Plugin?"
+msgstr "Ti  piace questo plugin?"
+
+#: dashboard/mybanners.php:159
+msgid ""
+"If you like this product, please write a few words about it. It will help "
+"other people find this useful plugin more quickly.Thank you!"
+msgstr ""
+"Se ti piace questo prodotto, per favore scrivi qualche parola a suo "
+"riguardo. Aiuterà altra gente a trovare questo utile plugin più "
+"velocementeGrazie!"
+
+#: dashboard/mybanners.php:162
+msgid "Rate or Share"
+msgstr "Dai un punteggio o Condividi"
+
+#: dashboard/mybanners.php:166
+msgid "Please help us keep the plugin live & up-to-date"
+msgstr "Per favore, aiutaci a mantenere il plugin vivo e aggiornato"
+
+#: dashboard/mybanners.php:168
+msgid ""
+"If you use & enjoy WP Memory Plugin, please rate it on WordPress.org. It "
+"only takes a second and helps us keep the plugin live and maintained. Thank "
+"you!"
+msgstr ""
+"Se usi e ti piace WP Memory Plugin, per favore votalo su WordPress.org. Ci "
+"vuole solo un secondo e ci aiuta a mantenere il plugin vivo e mantenuto. "
+"Grazie!"
+
+#: dashboard/mybanners.php:172
+msgid "Rate"
+msgstr "Tasso"
+
+#: dashboard/premium.php:44
+msgid "Go Premium and remove all plugin restrictions."
+msgstr "Vai Premium e rimuovi tutte le restrizioni del plugin."
+
+#: dashboard/premium.php:51
+msgid "Click Here to Go Premium"
+msgstr "Clicca qui per andare a Premium"
+
+#: dashboard/premium.php:57
+msgid ""
+"Paste below the Item Purchase Code received by email from us when you bought "
+"the premium version."
+msgstr ""
+"Incolla qui sotto il codice d'acquisto ricevuto via e-mail da noi quando hai "
+"comprato la versione premium."
+
+#: dashboard/premium.php:58
+msgid "You don't need reinstall the plugin."
+msgstr "Non è necessario reinstallare il plugin."
+
+#: dashboard/premium.php:60
+msgid "After that, click UPDATE Button."
+msgstr "Dopo di che, cliccate su UPDATE Button."
+
+#: dashboard/premium.php:66
+msgid "Purchase Code"
+msgstr "Codice d'acquisto"
+
+#: dashboard/premium.php:78
+msgid "Premium Version activated!"
+msgstr "Versione Premium attivata!"
+
+#: dashboard/wizard/wizard.php:39
+msgid "We are unable to get your Hardware Memory."
+msgstr "Non siamo in grado di ottenere la tua memoria hardware."
+
+#: dashboard/wizard/wizard.php:41
+msgid ""
+"Please, talk with your hosting company and ask to them  the amount of your "
+"server RAM (or enable shell_exec function)."
+msgstr ""
+"Per favore, parlate con la vostra società di hosting e chiedete di abilitare "
+"la funzione shell_exec."
+
+#: dashboard/wizard/wizard.php:65
+msgid "This Wizard can help you to configurate your Server Memory."
+msgstr ""
+"Questa procedura guidata può aiutarvi a configurare la vostra memoria del "
+"server."
+
+#: dashboard/wizard/wizard.php:67
+msgid "(WordPress Memory Limit and PHP Memory)"
+msgstr "(WordPress Memory Limit e PHP Memory)"
+
+#: dashboard/wizard/wizard.php:72
+msgid ""
+"The Server RAM (Random Access Memory) is a \n"
+"        physical memory, which usually takes the form of cards (DIMMs) "
+"attached onto the motherboard.\n"
+"        Talk with your hosting company if you need to increase that."
+msgstr ""
+"La RAM (Random Access Memory) del server è una\n"
+"memoria fisica, che di solito prende la forma di schede (DIMM) attaccate "
+"alla scheda madre.\n"
+"Parla con la tua compagnia di hosting se hai bisogno di aumentarla."
+
+#: dashboard/wizard/wizard.php:83
+msgid "This Total is the Max you can allocate at next step."
+msgstr "Questo totale è il massimo che puoi assegnare al prossimo passo."
+
+#: dashboard/wizard/wizard.php:95 dashboard/wizard/wizard.php:228
+msgid "Next Step"
+msgstr "Passaggio successivo"
+
+#: dashboard/wizard/wizard.php:156
+msgid ""
+"The PHP memory limit needs be not bigger than your Hardware Memory (Previous "
+"Step) and needs be bigger than WordPress Memory Limit (Next Step)."
+msgstr ""
+"Il limite di memoria PHP  (PHP Memory Limit) deve essere  non più grande "
+"della vostra memoria di hardware (Passo Scorso) e più grande del limite di "
+"memoria di WordPress -  WordPress Memory Limit (Prossimo Passo). "
+
+#: dashboard/wizard/wizard.php:222 dashboard/wizard/wizard.php:330
+msgid "Previous Step"
+msgstr "Passaggio precedente"
+
+#: dashboard/wizard/wizard.php:262
+msgid "This Amount need be minor than PHP Memory Limit. (Previous Step)"
+msgstr ""
+"Questa quantità deve essere minore del limite di memoria di PHP (PHP Memory "
+"Limit.),  Scorso Passo."
+
+#: dashboard/wizard/wizard.php:276
+msgid "We suggest define Maximum Memory Limit to 256 or 512MB."
+msgstr "Suggeriamo di definire il limite massimo di memoria a 256 o 512 MB."
+
+#: dashboard/wizard/wizard.php:277
+msgid "This WordPress Maximum Memory is by instance."
+msgstr "Questa memoria massima di WordPress è per istanza."
+
+#: dashboard/wizard/wizard.php:278
+msgid ""
+"As you add visitors, you may find additional instances, that are all using "
+"memory."
+msgstr ""
+"Man mano che si aggiungono visitatori, si possono trovare altre istanze, che "
+"stanno tutte usando la memoria."
+
+#: dashboard/wizard/wizard.php:279
+msgid "Each PHP instance of WP uses only as much memory as it needs."
+msgstr "Ogni istanza PHP di WP usa solo tutta la memoria di cui ha bisogno."
+
+#: functions/functions.php:55
+msgid "Memory Usage information"
+msgstr "Informazioni sull'uso della memoria"
+
+#: functions/functions.php:72
+msgid "Could not activate plugin: PHP version error"
+msgstr "Impossibile attivare il plugin: Errore di versione di PHP"
+
+#: functions/functions.php:72
+msgid "You are using PHP version"
+msgstr "Stai usando la versione di PHP"
+
+#: functions/functions.php:72
+msgid "This plugin has been tested with PHP versions 5.3 and greater."
+msgstr "Questo plugin è stato testato con le versioni PHP 5.3 e superiori."
+
+#: functions/functions.php:72
+msgid ""
+"WordPress itself <a href=\"https://wordpress.org/about/requirements/\" "
+"target=\"_blank\">recommends using PHP version 7 or greater</a>. Please "
+"upgrade your PHP version or contact your Server administrator."
+msgstr ""
+"WordPress stesso <a href=\"https://wordpress.org/about/requirements/\" "
+"target=\"_blank\">raccomanda di usare PHP versione 7 o superiore</a>. Per "
+"favore, aggiorna la tua versione di PHP o contatta l'amministratore del tuo "
+"server."
+
+#: functions/functions.php:82
+msgid "Could not activate plugin: WordPress need be 5.2 or bigger."
+msgstr ""
+"Impossibile attivare il plugin: Versione di WordPress deve essere 5.2 o più "
+"grande."
+
+#: functions/functions.php:82
+msgid "Please, Update WordPress to Version 5.2 or bigger to use this plugin."
+msgstr ""
+"Si prega di aggiornare WordPress alla versione 5.2 o superiore per "
+"utilizzare questo plugin."
+
+#: functions/functions.php:92
+msgid "WP Memory  Plugin was activated!"
+msgstr "Il plugin WP Memory è stato attivato!"
+
+#: functions/functions.php:95
+msgid ""
+"For details and help, take a look at WP Memory  at your left menu, Tools"
+msgstr ""
+"Per dettagli e aiuto, date un'occhiata a WP Memory nel vostro menu di "
+"sinistra, Strumenti"
+
+#: functions/functions.php:98
+msgid "or click here"
+msgstr "o clicca qui"
+
+#: functions/functions.php:173
+msgid "WP Memory Test"
+msgstr "WP Memory Test"
+
+#: functions/functions.php:212
+msgid "Database Updated!"
+msgstr "Database aggiornato!"
+
+#: wpmemory.php:109
+msgid "Current memory WordPress Limit"
+msgstr "Memoria corrente WordPress Limite"
+
+#: wpmemory.php:119
+msgid ""
+"Run your site with High Memory Usage, can result in behaving slowly, or "
+"pages fail to load, you get random white screens of death or 500 internal "
+"server error. Basically, the more content, features and plugins you add to "
+"your site, the bigger your memory limit has to be. Increase the WP Memory "
+"Limit is a standard practice in WordPress. You can manually increase memory "
+"limit in WordPress by editing the wp-config.php file. You can find "
+"instructions in the official WordPress documentation (Increasing memory "
+"allocated to PHP). Just click the link below: "
+msgstr ""
+"Eseguire il tuo sito con un alto utilizzo di memoria, può risultare in un "
+"comportamento lento, o le pagine non riescono a caricarsi, si ottengono "
+"schermate bianche o 500 errori interni del server. Fondamentalmente, più "
+"contenuti, funzioni e plugin aggiungi al tuo sito, più grande deve essere il "
+"tuo limite di memoria. Aumentare il limite di memoria di WP è una pratica "
+"standard in WordPress. È possibile aumentare manualmente il limite di "
+"memoria in WordPress modificando il file wp-config.php. Puoi trovare le "
+"istruzioni nella documentazione ufficiale di WordPress (Aumentare la memoria "
+"assegnata a PHP). Basta cliccare sul link qui sotto"
+
+#: wpmemory.php:120
+msgid "WordPress Help Page"
+msgstr "Pagina di aiuto di WordPress"
+
+#: wpmemory.php:124
+msgid "Pass"
+msgstr "Passato"
+
+#: wpmemory.php:153
+msgid "Message from WP Memory"
+msgstr "Messaggio da WP Memory"
+
+#: wpmemory.php:155
+msgid "To Install the extension:"
+msgstr "Per installare l'estensione:"
+
+#: wpmemory.php:159
+msgid "click here"
+msgstr "fare click qui"
+
+#. Plugin Name of the plugin/theme
+msgid "WP Memory"
+msgstr "WP Memory"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wpmemory.com"
+msgstr "http://wpmemory.com"
+
+#. Description of the plugin/theme
+msgid ""
+"Check For High Memory Usage, include result in the Site Health Page and Give "
+"Suggestions."
+msgstr ""
+"Controlla l'uso di memoria elevata, include il risultato nella pagina della "
+"salute del sito e dà suggerimenti."
+
+#. Author of the plugin/theme
+msgid "Bill Minozzi"
+msgstr "Bill Minozzi"
+
+#. Author URI of the plugin/theme
+msgid "http://billminozzi.com"
+msgstr "http://billminozzi.com"

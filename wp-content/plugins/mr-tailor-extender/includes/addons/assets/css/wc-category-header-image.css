@@ -1,0 +1,17 @@
+.category_header.with_featured_img {
+  color: #fff;
+  margin-top: 0;
+  padding: 100px 0; }
+  .category_header.with_featured_img h1,
+  .category_header.with_featured_img .woocommerce-breadcrumb a {
+    color: #fff; }
+  .category_header.with_featured_img .woocommerce-breadcrumb {
+    color: rgba(255, 255, 255, 0.45); }
+    .category_header.with_featured_img .woocommerce-breadcrumb a:hover {
+      color: #fff;
+      opacity: .45; }
+  .category_header.with_featured_img .term-description {
+    margin: 25px 0 0 0;
+    position: relative; }
+    .category_header.with_featured_img .term-description > p {
+      margin-bottom: 0; }

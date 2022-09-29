@@ -1,0 +1,10 @@
+*** Product Questions By Aheadworks for WooCommerce Changelog ***
+2021-01-19 - Version 1.1.0
+* Enhancement - Prevent guests from asking questions
+* Enhancement - Highlight admin's reply
+* Enhancement - Highlight number of questions in tab
+* Enhancement - Edit message within x minutes after posting it
+* Enhancement - Send advanced email notifications
+* Enhancement - Extension language translation using CSV Import from store admin
+2020-07-07 - Version 1.0.0
+* Inital release

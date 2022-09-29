@@ -1,0 +1,172 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: FlipTimer WordPress Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2021-10-19 12:00:00+0000\n"
+"Last-Translator: AthenaStudio <athenastudio87@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: fliptimer_admin.php:14
+msgid "Flip Timer"
+msgstr ""
+
+#: fliptimer_admin.php:21
+msgid "General"
+msgstr ""
+
+#: fliptimer_admin.php:27
+msgid "Date"
+msgstr ""
+
+#: fliptimer_admin.php:32
+msgid "Time Zone"
+msgstr ""
+
+#: fliptimer_admin.php:37
+msgid "Past"
+msgstr ""
+
+#: fliptimer_admin.php:43
+msgid "Day Text Number"
+msgstr ""
+
+#: fliptimer_admin.php:45
+msgid "Number / auto"
+msgstr ""
+
+#: fliptimer_admin.php:54
+msgid "Show/Hide Timers"
+msgstr ""
+
+#: fliptimer_admin.php:60
+msgid "Show Days"
+msgstr ""
+
+#: fliptimer_admin.php:66
+msgid "Show Hours"
+msgstr ""
+
+#: fliptimer_admin.php:72
+msgid "Show Minutes"
+msgstr ""
+
+#: fliptimer_admin.php:78
+msgid "Show Seconds"
+msgstr ""
+
+#: fliptimer_admin.php:91
+msgid "Texts"
+msgstr ""
+
+#: fliptimer_admin.php:97
+msgid "Days Text"
+msgstr ""
+
+#: fliptimer_admin.php:102
+msgid "Hours Text"
+msgstr ""
+
+#: fliptimer_admin.php:107
+msgid "Minutes Text"
+msgstr ""
+
+#: fliptimer_admin.php:112
+msgid "Seconds Text"
+msgstr ""
+
+#: fliptimer_admin.php:122
+msgid "Flip style"
+msgstr ""
+
+#: fliptimer_admin.php:128
+msgid "Background Color"
+msgstr ""
+
+#: fliptimer_admin.php:139
+msgid "Divider Color"
+msgstr ""
+
+#: fliptimer_admin.php:150
+msgid "Digit Color"
+msgstr ""
+
+#: fliptimer_admin.php:161
+msgid "Text Color"
+msgstr ""
+
+#: fliptimer_admin.php:179
+msgid "Miscellaneous"
+msgstr ""
+
+#: fliptimer_admin.php:185
+msgid "Border Radius"
+msgstr ""
+
+#: fliptimer_admin.php:191
+msgid "Box Shadow"
+msgstr ""
+
+#: fliptimer_admin.php:197
+msgid "Use Server Time"
+msgstr ""
+
+#: fliptimer_admin.php:203
+msgid "Multicolor"
+msgstr ""
+
+#: fliptimer_admin.php:209
+msgid "Auto Reset"
+msgstr ""
+
+#: fliptimer_admin.php:215
+msgid "Reset Interval"
+msgstr ""
+
+#: fliptimer_admin.php:226
+msgid "Expire"
+msgstr ""
+
+#: fliptimer_admin.php:232
+msgid "Expire Type"
+msgstr ""
+
+#: fliptimer_admin.php:241
+msgid "Message Text"
+msgstr ""
+
+#: fliptimer_admin.php:242
+msgid "Sorry, you are too late!"
+msgstr ""
+
+#: fliptimer_admin.php:246
+msgid "Redirect Url"
+msgstr ""
+
+#: fliptimer_admin.php:255
+msgid "Generated Shortcode"
+msgstr ""
+
+#: fliptimer_admin.php:263
+msgid "Save Changes"
+msgstr ""
+
+#: fliptimer_admin.php:267
+msgid "Generate Shortcode"
+msgstr ""
+
+#: fliptimer_admin.php:271
+msgid "Cancel"
+msgstr ""
